@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-photoroom-white-bg-complier",
+  "title": "TEMU跨境合规纯白底主图生成器 | PhotoRoom平替 | 零杂质过审保证",
+  "template": "T2_white_background",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "PhotoRoom",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

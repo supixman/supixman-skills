@@ -1,0 +1,10 @@
+{
+  "name": "mercadolibre-latam-vmodel-flatlay-tryon-crafter",
+  "title": "美客多拉美平铺服装无痕试穿上身 | Vmodel平替 | 垂坠质感商拍",
+  "template": "T3_virtual_fitting",
+  "platform": "Mercado Libre",
+  "competitor": "Vmodel",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

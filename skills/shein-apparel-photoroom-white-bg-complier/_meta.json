@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-photoroom-white-bg-complier",
+  "title": "SHEIN希音合规纯白底主图生成器 | PhotoRoom平替 | 零杂质过审保证",
+  "template": "T2_white_background",
+  "platform": "SHEIN自营/平台",
+  "competitor": "PhotoRoom",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

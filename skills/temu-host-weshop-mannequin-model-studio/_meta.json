@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-weshop-mannequin-model-studio",
+  "title": "TEMU跨境人台图转超模商拍机 | WeShop平替 | 本地化模特穿模",
+  "template": "T3_virtual_fitting",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "WeShop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

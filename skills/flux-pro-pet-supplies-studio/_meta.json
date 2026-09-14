@@ -1,0 +1,10 @@
+{
+  "name": "flux-pro-pet-supplies-studio",
+  "title": "宠物用品与逗宠玩具AI商业置景渲染器 | Midjourney平替 | Flux.1商业渲染",
+  "template": "T1_scene_image",
+  "platform": "全球通用",
+  "competitor": "Midjourney",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

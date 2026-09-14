@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-kreado-ethnicity-model-swapper",
+  "title": "Shopee东南亚本土面孔模特换脸工具 | KreadoAI平替 | 本地化肤色定制",
+  "template": "T3_virtual_fitting",
+  "platform": "Shopee/Lazada",
+  "competitor": "KreadoAI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

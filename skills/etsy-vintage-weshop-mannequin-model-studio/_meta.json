@@ -1,0 +1,10 @@
+{
+  "name": "etsy-vintage-weshop-mannequin-model-studio",
+  "title": "Etsy手作人台图转超模商拍机 | WeShop平替 | 本地化模特穿模",
+  "template": "T3_virtual_fitting",
+  "platform": "Etsy",
+  "competitor": "WeShop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

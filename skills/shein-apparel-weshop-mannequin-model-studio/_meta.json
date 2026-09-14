@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-weshop-mannequin-model-studio",
+  "title": "SHEIN希音人台图转超模商拍机 | WeShop平替 | 本地化模特穿模",
+  "template": "T3_virtual_fitting",
+  "platform": "SHEIN自营/平台",
+  "competitor": "WeShop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

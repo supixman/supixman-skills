@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-weshop-mannequin-model-studio",
+  "title": "TikTok电商人台图转超模商拍机 | WeShop平替 | 本地化模特穿模",
+  "template": "T3_virtual_fitting",
+  "platform": "TikTok Shop",
+  "competitor": "WeShop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

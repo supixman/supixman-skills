@@ -1,0 +1,10 @@
+{
+  "name": "etsy-vintage-photoroom-white-bg-complier",
+  "title": "Etsy手作合规纯白底主图生成器 | PhotoRoom平替 | 零杂质过审保证",
+  "template": "T2_white_background",
+  "platform": "Etsy",
+  "competitor": "PhotoRoom",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

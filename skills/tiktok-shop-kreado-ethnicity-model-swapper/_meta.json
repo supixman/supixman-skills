@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-kreado-ethnicity-model-swapper",
+  "title": "TikTok电商本土面孔模特换脸工具 | KreadoAI平替 | 本地化肤色定制",
+  "template": "T3_virtual_fitting",
+  "platform": "TikTok Shop",
+  "competitor": "KreadoAI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

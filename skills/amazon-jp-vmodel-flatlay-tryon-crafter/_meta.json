@@ -1,0 +1,10 @@
+{
+  "name": "amazon-jp-vmodel-flatlay-tryon-crafter",
+  "title": "亚马逊日本站平铺服装无痕试穿上身 | Vmodel平替 | 垂坠质感商拍",
+  "template": "T3_virtual_fitting",
+  "platform": "Amazon JP",
+  "competitor": "Vmodel",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

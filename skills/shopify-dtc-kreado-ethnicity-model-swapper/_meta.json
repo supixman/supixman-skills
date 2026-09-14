@@ -1,0 +1,10 @@
+{
+  "name": "shopify-dtc-kreado-ethnicity-model-swapper",
+  "title": "Shopify独立站本土面孔模特换脸工具 | KreadoAI平替 | 本地化肤色定制",
+  "template": "T3_virtual_fitting",
+  "platform": "Shopify DTC",
+  "competitor": "KreadoAI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

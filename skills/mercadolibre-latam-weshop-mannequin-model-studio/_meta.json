@@ -1,0 +1,10 @@
+{
+  "name": "mercadolibre-latam-weshop-mannequin-model-studio",
+  "title": "美客多拉美人台图转超模商拍机 | WeShop平替 | 本地化模特穿模",
+  "template": "T3_virtual_fitting",
+  "platform": "Mercado Libre",
+  "competitor": "WeShop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

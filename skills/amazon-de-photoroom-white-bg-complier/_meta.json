@@ -1,0 +1,10 @@
+{
+  "name": "amazon-de-photoroom-white-bg-complier",
+  "title": "亚马逊欧洲站合规纯白底主图生成器 | PhotoRoom平替 | 零杂质过审保证",
+  "template": "T2_white_background",
+  "platform": "Amazon DE/EU",
+  "competitor": "PhotoRoom",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

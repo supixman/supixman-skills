@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-kreado-ethnicity-model-swapper",
+  "title": "TEMU跨境本土面孔模特换脸工具 | KreadoAI平替 | 本地化肤色定制",
+  "template": "T3_virtual_fitting",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "KreadoAI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}
