@@ -1,0 +1,10 @@
+{
+  "name": "fastmoss-influencer-roi-scout",
+  "title": "TikTok-达人带货选品建联专家 | FastMoss平替 | 避免盲目寄样沉没成本",
+  "template": "T1_scene_image",
+  "platform": "TikTok / TikTok Shop",
+  "competitor": "FastMoss",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

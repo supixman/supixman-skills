@@ -1,0 +1,10 @@
+{
+  "name": "mens-clothing-viral-video-maker",
+  "title": "爆款男装视频模仿 | 男装仿拍平替 | 精准完成男装动作迁移",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "男装短视频工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qiangua-rednote-trend-keyword-miner",
+  "title": "小红书爆款图文笔记与词云拆解 | 千瓜平替 | 搜索排名前置种草热词",
+  "template": "T1_scene_image",
+  "platform": "小红书爆款营销",
+  "competitor": "千瓜数据",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

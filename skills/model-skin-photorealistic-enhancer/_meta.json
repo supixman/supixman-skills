@@ -1,0 +1,10 @@
+{
+  "name": "model-skin-photorealistic-enhancer",
+  "title": "模特图去AI感 | 模特修图平替 | 还原真实皮肤毛孔肌理",
+  "template": "T3_virtual_fitting",
+  "platform": "全电商平台通用",
+  "competitor": "专业人像修图师",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

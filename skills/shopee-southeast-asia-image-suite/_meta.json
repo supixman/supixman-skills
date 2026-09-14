@@ -1,0 +1,10 @@
+{
+  "name": "shopee-southeast-asia-image-suite",
+  "title": "Shopee 商品图、主图套图、详情图、活动图生成 | Shopee美工平替 | 1:1方形图/多语言促销贴纸/东南亚大促海报",
+  "template": "T1_scene_image",
+  "platform": "Shopee (东南亚)",
+  "competitor": "Shopee本地化设计",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

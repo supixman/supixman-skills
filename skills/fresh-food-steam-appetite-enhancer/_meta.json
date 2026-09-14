@@ -1,0 +1,10 @@
+{
+  "name": "fresh-food-steam-appetite-enhancer",
+  "title": "生鲜美食诱人热气与水滴置景 | 美食摄影棚平替 | 热气腾腾爆汁感生成",
+  "template": "T1_scene_image",
+  "platform": "食品生鲜商拍",
+  "competitor": "美食商拍摄影师",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "image-multilingual-text-editor",
+  "title": "电商图文字修改 | 图片文字平替 | 自动识别图片文字并快速替换价格与促销文案",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "图片文本修改工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

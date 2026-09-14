@@ -1,0 +1,10 @@
+{
+  "name": "shopify-dtc-clipdrop-4k-upscale-enhancer",
+  "title": "Shopify独立站商品图4K超分画质增强 | Clipdrop平替 | 细节锐化去噪",
+  "template": "T1_scene_image",
+  "platform": "Shopify DTC",
+  "competitor": "Clipdrop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

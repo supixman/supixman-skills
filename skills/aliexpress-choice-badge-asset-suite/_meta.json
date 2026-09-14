@@ -1,0 +1,10 @@
+{
+  "name": "aliexpress-choice-badge-asset-suite",
+  "title": "速卖通Choice专区极速上架主图包 | AliExpress标配 | 欧美欧规插头与极速到货标识",
+  "template": "T1_scene_image",
+  "platform": "速卖通 Choice 专精",
+  "competitor": "速卖通大卖视觉",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

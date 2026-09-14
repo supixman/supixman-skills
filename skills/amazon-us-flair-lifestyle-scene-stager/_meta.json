@@ -1,0 +1,10 @@
+{
+  "name": "amazon-us-flair-lifestyle-scene-stager",
+  "title": "亚马逊美区商品场景生活图置景台 | Flair AI平替 | 商业光影大片",
+  "template": "T1_scene_image",
+  "platform": "Amazon US",
+  "competitor": "Flair AI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

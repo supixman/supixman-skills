@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-voc-review-insight-digger",
+  "title": "TEMU跨境竞品差评VOC痛点反推仪 | 逆向选品神器 | 避坑改款直击痛点",
+  "template": "T1_scene_image",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "VOC洞察",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

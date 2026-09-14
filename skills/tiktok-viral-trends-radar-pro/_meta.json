@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-viral-trends-radar-pro",
+  "title": "TikTok-社媒运营专家 | TikTok社媒平替 | 监控行业热门话题与高赞爆款脚本结构与灵感",
+  "template": "T1_scene_image",
+  "platform": "TikTok / TikTok Shop",
+  "competitor": "Exolyt",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

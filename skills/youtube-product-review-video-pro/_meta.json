@@ -1,0 +1,10 @@
+{
+  "name": "youtube-product-review-video-pro",
+  "title": "YouTube 爆款视频生成 | YouTube爆款平替 | 横屏深度测评与开箱大片",
+  "template": "T5_sales_video",
+  "platform": "YouTube",
+  "competitor": "YouTube长短视频工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

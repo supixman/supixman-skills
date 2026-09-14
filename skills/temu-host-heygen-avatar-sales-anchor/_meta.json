@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-heygen-avatar-sales-anchor",
+  "title": "TEMU跨境本地化AI数字人带货主播 | HeyGen平替 | 欧美真人口播出海",
+  "template": "T5_sales_video",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "HeyGen",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

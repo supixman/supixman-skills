@@ -1,0 +1,10 @@
+{
+  "name": "amazon-us-deepl-native-localizer",
+  "title": "亚马逊美区地道母语本土化翻译官 | DeepL平替 | 跨越文化语言障碍",
+  "template": "T1_scene_image",
+  "platform": "Amazon US",
+  "competitor": "DeepL",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

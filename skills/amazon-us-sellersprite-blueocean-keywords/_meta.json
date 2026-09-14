@@ -1,0 +1,10 @@
+{
+  "name": "amazon-us-sellersprite-blueocean-keywords",
+  "title": "亚马逊美区蓝海关键词挖掘与埋词器 | 卖家精灵平替 | 低成本截流工具",
+  "template": "T1_scene_image",
+  "platform": "Amazon US",
+  "competitor": "卖家精灵",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

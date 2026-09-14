@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-clipdrop-4k-upscale-enhancer",
+  "title": "Shopee东南亚商品图4K超分画质增强 | Clipdrop平替 | 细节锐化去噪",
+  "template": "T1_scene_image",
+  "platform": "Shopee/Lazada",
+  "competitor": "Clipdrop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

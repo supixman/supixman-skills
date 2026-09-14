@@ -1,0 +1,10 @@
+{
+  "name": "lalaland-plussize-body-tryon",
+  "title": "大码多体型模特一键试衣 | Lalaland平替 | 丰满大码/中老年体型适配",
+  "template": "T3_virtual_fitting",
+  "platform": "大码/多元包容服饰",
+  "competitor": "Lalaland.ai",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

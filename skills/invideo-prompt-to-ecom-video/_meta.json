@@ -1,0 +1,10 @@
+{
+  "name": "invideo-prompt-to-ecom-video",
+  "title": "商品Prompt一键生成带货视频 | InVideo平替 | 脚本配音B-Roll全套输出",
+  "template": "T5_sales_video",
+  "platform": "TikTok/YouTube Shorts",
+  "competitor": "InVideo AI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

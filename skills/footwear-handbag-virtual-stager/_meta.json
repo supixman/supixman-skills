@@ -1,0 +1,10 @@
+{
+  "name": "footwear-handbag-virtual-stager",
+  "title": "鞋靴箱包商业场景立体置景 | Flair AI平替 | 奢牌影棚陈列台生成",
+  "template": "T3_virtual_fitting",
+  "platform": "鞋包配饰专精",
+  "competitor": "Flair AI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

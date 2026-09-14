@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-sellersprite-blueocean-keywords",
+  "title": "Shopee东南亚蓝海关键词挖掘与埋词器 | 卖家精灵平替 | 低成本截流工具",
+  "template": "T1_scene_image",
+  "platform": "Shopee/Lazada",
+  "competitor": "卖家精灵",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

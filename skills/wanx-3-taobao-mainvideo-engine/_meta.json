@@ -1,0 +1,10 @@
+{
+  "name": "wanx-3-taobao-mainvideo-engine",
+  "title": "阿里Wanx 3.0 电商带货视频 | 阿里万相商业平替 | 原生适配淘系主图短视频与阿里妈妈投流素材",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "阿里通义万相 Wanx 3.0",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

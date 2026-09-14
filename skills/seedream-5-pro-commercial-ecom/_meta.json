@@ -1,0 +1,10 @@
+{
+  "name": "seedream-5-pro-commercial-ecom",
+  "title": "Seedream 5.0 Pro 爆款电商图 | Seedream商业平替 | 全场景极高质量生图",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "Seedream 5.0 Pro",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

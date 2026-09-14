@@ -1,0 +1,10 @@
+{
+  "name": "ecom-video-all-in-one-generator",
+  "title": "AI电商带货视频 | 全能视频平替 | 一键生成展示视频/带货短视频/宣传片与配音",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "全链路短视频工作流",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

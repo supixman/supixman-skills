@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-sellersprite-blueocean-keywords",
+  "title": "TEMU跨境蓝海关键词挖掘与埋词器 | 卖家精灵平替 | 低成本截流工具",
+  "template": "T1_scene_image",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "卖家精灵",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

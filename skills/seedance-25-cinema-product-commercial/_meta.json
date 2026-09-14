@@ -1,0 +1,10 @@
+{
+  "name": "seedance-25-cinema-product-commercial",
+  "title": "Seedance 2.5 电商带货视频 | Seedance2.5平替 | 超高真实感与电影质感的产品宣传大片",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "字节 Seedance 2.5",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

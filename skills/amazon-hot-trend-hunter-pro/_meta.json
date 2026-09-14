@@ -1,0 +1,10 @@
+{
+  "name": "amazon-hot-trend-hunter-pro",
+  "title": "亚马逊-爆款趋势挖掘师 | 亚马逊趋势平替 | 提前1~2个月布局季节性与突发趋势爆款",
+  "template": "T1_scene_image",
+  "platform": "亚马逊 (Amazon)",
+  "competitor": "Amazon Movers & Shakers",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

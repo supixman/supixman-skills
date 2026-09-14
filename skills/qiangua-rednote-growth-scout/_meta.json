@@ -1,0 +1,10 @@
+{
+  "name": "qiangua-rednote-growth-scout",
+  "title": "小红书-社媒运营专家 | 千瓜平替 | 打通笔记拆解、痛点提炼与KOC投放闭环",
+  "template": "T1_scene_image",
+  "platform": "小红书 (RedNote)",
+  "competitor": "千瓜数据 / 灰豚数据",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

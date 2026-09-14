@@ -1,0 +1,10 @@
+{
+  "name": "comfyui-ecommerce-outpainting-node",
+  "title": "ComfyUI商品图无缝画幅外扩节点 | 画面智能补全 | 横屏变竖屏无拉伸填充",
+  "template": "T1_scene_image",
+  "platform": "ComfyUI 工作流",
+  "competitor": "ComfyUI Outpainting",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

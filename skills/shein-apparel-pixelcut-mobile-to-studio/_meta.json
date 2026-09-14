@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-pixelcut-mobile-to-studio",
+  "title": "SHEIN希音手机生拍变专业商拍棚拍 | Pixelcut平替 | 档口样品秒变大片",
+  "template": "T1_scene_image",
+  "platform": "SHEIN自营/平台",
+  "competitor": "Pixelcut",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

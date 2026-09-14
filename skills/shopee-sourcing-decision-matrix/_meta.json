@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sourcing-decision-matrix",
+  "title": "Shopee-选品决策专家 | Shopee决策平替 | 大盘+竞店+爆款+搜词全景选品决策输出",
+  "template": "T1_scene_image",
+  "platform": "Shopee (东南亚)",
+  "competitor": "Shopee决策分析工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

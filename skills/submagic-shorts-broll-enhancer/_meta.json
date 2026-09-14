@@ -1,0 +1,10 @@
+{
+  "name": "submagic-shorts-broll-enhancer",
+  "title": "带货短视频卡点B-Roll剪辑器 | Submagic平替 | 动态配乐/Hook钩子开头",
+  "template": "T5_sales_video",
+  "platform": "卡点B-Roll与音效",
+  "competitor": "Submagic",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

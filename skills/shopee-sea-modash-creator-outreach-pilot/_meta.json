@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-modash-creator-outreach-pilot",
+  "title": "Shopee东南亚海外带货达人背调与建联 | Modash平替 | 高回复率邀约开发信",
+  "template": "T1_scene_image",
+  "platform": "Shopee/Lazada",
+  "competitor": "Modash",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

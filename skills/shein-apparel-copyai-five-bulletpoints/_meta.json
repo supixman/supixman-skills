@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-copyai-five-bulletpoints",
+  "title": "SHEIN希音高转化五点描述撰写引擎 | Copy.ai平替 | 地道母语促单转化",
+  "template": "T1_scene_image",
+  "platform": "SHEIN自营/平台",
+  "competitor": "Copy.ai",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

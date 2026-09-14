@@ -1,0 +1,10 @@
+{
+  "name": "vrew-text-to-video-voiceover-pro",
+  "title": "文案一键转带货短视频与配音 | Vrew平替 | 本地化母语配音与双语字幕",
+  "template": "T5_sales_video",
+  "platform": "带货出海无痕字幕",
+  "competitor": "Vrew",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "topaz-video-upscale-60fps-hd",
+  "title": "AI视频超清修复 | Topaz视频平替 | 1080P/4K超清修复与60帧智能补帧",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "Topaz Video AI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

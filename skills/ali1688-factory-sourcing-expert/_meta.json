@@ -1,0 +1,10 @@
+{
+  "name": "ali1688-factory-sourcing-expert",
+  "title": "1688选品专家 | 1688选品平替 | 绕过二道贩子赚差价",
+  "template": "T1_scene_image",
+  "platform": "1688批发",
+  "competitor": "1688官方采购工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

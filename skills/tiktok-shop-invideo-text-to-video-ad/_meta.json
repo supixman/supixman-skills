@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-invideo-text-to-video-ad",
+  "title": "TikTok电商文案一键成带货视频全片 | InVideo平替 | 脚本配音剪辑全包",
+  "template": "T5_sales_video",
+  "platform": "TikTok Shop",
+  "competitor": "InVideo",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

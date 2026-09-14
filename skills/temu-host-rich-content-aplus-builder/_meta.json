@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-rich-content-aplus-builder",
+  "title": "TEMU跨境富媒体A+详情页全案设计 | 品牌大卖标配 | 消除购买犹豫促单",
+  "template": "T1_scene_image",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "A+设计工坊",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

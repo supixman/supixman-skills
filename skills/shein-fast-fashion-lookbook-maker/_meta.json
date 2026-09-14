@@ -1,0 +1,10 @@
+{
+  "name": "shein-fast-fashion-lookbook-maker",
+  "title": "快时尚穿搭画册一键出图 | Botika平替 | SHEIN/Temu爆款穿搭Lookbook",
+  "template": "T3_virtual_fitting",
+  "platform": "SHEIN/速卖通供货",
+  "competitor": "Botika",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

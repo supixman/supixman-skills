@@ -1,0 +1,10 @@
+{
+  "name": "editorial-street-fashion-shot",
+  "title": "欧美街头高街抓拍商业大片 | 街拍摄影平替 | 纽约/巴黎/伦敦街头氛围",
+  "template": "T3_virtual_fitting",
+  "platform": "欧美大牌商拍",
+  "competitor": "街拍摄影师",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

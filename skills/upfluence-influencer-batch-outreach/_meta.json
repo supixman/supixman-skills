@@ -1,0 +1,10 @@
+{
+  "name": "upfluence-influencer-batch-outreach",
+  "title": "出海达人批量邀约与佣金追踪 | Upfluence平替 | 自动化建联邮件与带货返佣",
+  "template": "T1_scene_image",
+  "platform": "红人邀约CRM",
+  "competitor": "Upfluence",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ugc-creator-review-video-cloner",
+  "title": "真实买家UGC开箱好评视频生成器 | OpusClip平替 | 原生带货口吻开箱评测",
+  "template": "T5_sales_video",
+  "platform": "TikTok / Instagram",
+  "competitor": "Opus Clip",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-buyer-qa-objection-killer",
+  "title": "买家核心顾虑与QA问答布局器 | 消除购买犹豫 | 打消售后顾虑促转化",
+  "template": "T1_scene_image",
+  "platform": "Q&A常见问答生成",
+  "competitor": "大促转化率优化器",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

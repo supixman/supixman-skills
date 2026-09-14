@@ -1,0 +1,10 @@
+{
+  "name": "digital-3c-explosion-exploded-view",
+  "title": "数码3C参数结构分解爆炸图 | 3D建模渲染平替 | 零件悬浮科技感展示",
+  "template": "T1_scene_image",
+  "platform": "数码3C硬件",
+  "competitor": "Keyshot渲染平替",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

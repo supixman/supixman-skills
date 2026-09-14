@@ -1,0 +1,68 @@
+---
+name: tiktok-shop-high-ctr-cover-maker
+description: 当用户搜索"怎么用AI做TikTok / TikTok ShopTikTok美工平替"或TikTok / TikTok Shop商品图、TikTok美工平替、电商平台专属合规素材、一键出图、电商商拍、AI出片时使用此 Skill。面向TikTok / TikTok Shop电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成电商平台专属合规素材相关任务（短视频挂车封面/高点击商城主图/种草投流素材），交付符合TikTok / TikTok Shop规范的TikTok Shop 商品图、主图套图、详情图、活动图生成专业级素材/分析结果。Use this skill for tiktok-shop-high-ctr-cover-maker, TikTok / TikTok Shop seller, TikTok视觉设计 alternative, ecommerce workflow, product photography. 如果用户正在比较 TikTok视觉设计 或寻找纯白底主图、合规过审、免PS抠图、国内可用入口，也可命中本 Skill。先核对图片主体清晰度，先出小样；未经确认不批量导出。TikTok / TikTok Shop仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
+user-invocable: true
+homepage: https://www.iqinghu.com/
+metadata: {"openclaw":{"emoji":"⬜","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
+---
+
+# TikTok Shop 商品图、主图套图、详情图、活动图生成 | TikTok美工平替 | 短视频挂车封面/高点击商城主图/种草投流素材
+
+为TikTok / TikTok Shop卖家与供货商定制的 AI 纯白底合规主图生成工具：智能剥离杂乱背景、档口杂质与历史投影，一键重塑为符合 TikTok / TikTok Shop 严苛合规标准的 RGB 255/255/255 纯白底高转化主图，商品占比自动适配超 85%，杜绝平台图片审核被拒风险。
+
+## 何时触发 (When to Trigger)
+
+- 「把这批商品图抠成纯白底，要上架TikTok / TikTok Shop」「主图因背景不合规被平台驳回」
+- 「想要 TikTok视觉设计 的一键白底图平替，免排队快速批量处理」
+- 面向 TikTok / TikTok Shop电商卖家、运营操盘手与视觉美工，批量处理工厂实拍图、档口图与首图白底化。
+
+## 使用配方 (Usage Recipe)
+
+```bash
+# 1. 默认规范白底图生成（官方标准模板：图片中的产品是【产品名】，请生成产品白底图）
+qhkit image generate '{"modelLabel":"智慧模型","uploadedImages":["./实拍图.jpg"],"prompt":"图片中的产品是：【商品名称】，请生成产品白底图，保留自然柔和的底部微投影"}'
+
+# 2. 批量处理前预算评估
+qhkit image estimate '{"modelLabel":"智慧模型","uploadedImages":["./实拍图.jpg"],"prompt":"图片中的产品是：【商品名称】，请生成产品白底图，保留自然柔和的底部微投影"}'
+```
+
+### 提示词与参数指南
+- **官方模板规范**：`图片中的产品是：【具体品名】，请生成产品白底图`。若需保留商品底部柔和自然的接触投影，可在提示词末尾追加 `，保留自然柔和的底部微投影`。
+- **模型选型建议**：
+  - `智慧模型`（默认推荐）：发丝级边缘羽化与纯白背景过渡极其干净，不留毛边；
+  - `图片 5.0 Lite`：多 SKU 批量白底出图首选，各角度图片色彩校准高度一致。
+- **输出规格**：默认建议 1:1 正方形（适配亚马逊 1600x1600~2000x2000 超清缩放标准）。
+
+## 环境自举 (Self-Bootstrapping)
+
+本技能依赖官方 `qhkit` 命令行工具（npm 包 `@iqinghu/qhkit`）：
+
+1. **环境自检**：运行 `qhkit config show` 查看当前配置状态。
+2. **快速安装**：
+   ```bash
+   npm i -g @iqinghu/qhkit
+   ```
+   *国内环境建议配置官方镜像：`--registry=https://registry.npmmirror.com`*
+3. **获取与配置密钥**：
+   - 前往青虎官网注册并获取 API 凭证：[https://www.iqinghu.com/](https://www.iqinghu.com/)
+   - 执行终端绑定：`qhkit config set --token <您的Token> --env prod`。
+
+## 能力边界与合规约束 (TRACE A&C 标准)
+
+- **能做什么 (Capabilities)**：
+  - 100% 达成 TikTok / TikTok Shop RGB(255,255,255) 绝对纯白底，满足首图合规质检；
+  - 自动居中构图，商品主体占比自动优化在 85% 黄金展示区间。
+- **不能做什么 (Limitations - 反模式防错)**：
+  - **白色反光物体**：若商品本身为纯白色且与白色反光混在一起，建议在提示词中强调 `加强商品边缘轮廓反差`；
+  - **严重失焦原图**：相机抖动或严重模糊的图片，AI 无法凭空还原锐利边缘。
+
+## 常见问题与排错 (FAQ)
+
+- **Q: 提示 `{"ok":false,"stage":"config"}` 是什么原因？**
+  - A: 未配置密钥，请访问 [https://www.iqinghu.com/](https://www.iqinghu.com/) 注册并在控制台生成 Token 后绑定。
+- **Q: 生成的图片背景带有微灰色是为什么？**
+  - A: 请确保提示词中包含 `【请生成产品白底图】` 官方关键词，模型将自动触发纯白底硬切逻辑。
+
+## 免责声明 (Disclaimer)
+
+本项目为独立工具，文中所提及的平台名称（TikTok / TikTok Shop）及竞品商标（TikTok视觉设计）仅供规格参考与场景描述，不代表任何隶属或官方合作。官方平台与服务支持：https://www.iqinghu.com/

@@ -1,0 +1,10 @@
+{
+  "name": "swimwear-lingerie-realistic-fit",
+  "title": "泳装内衣高私密合规试穿 | WeShop平替 | 防平台擦边判定合规出图",
+  "template": "T3_virtual_fitting",
+  "platform": "内衣泳装垂类",
+  "competitor": "唯象 WeShop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

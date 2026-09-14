@@ -1,0 +1,10 @@
+{
+  "name": "kling-3-sales-video-engine",
+  "title": "可灵 Kling 3.0 电商带货视频 | 可灵3.0商业平替 | 长镜头多图参考与商品主体一致性带货视频",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "可灵 Kling 3.0",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

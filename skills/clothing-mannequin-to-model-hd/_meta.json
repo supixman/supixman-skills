@@ -1,0 +1,10 @@
+{
+  "name": "clothing-mannequin-to-model-hd",
+  "title": "模特换装高一致性 | 假人台穿搭平替 | 假人台与平铺图转超写真模特试穿",
+  "template": "T3_virtual_fitting",
+  "platform": "全电商平台通用",
+  "competitor": "假人台还原工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

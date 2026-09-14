@@ -1,0 +1,10 @@
+{
+  "name": "nano-banana-2-ctr-ad-assets",
+  "title": "Nano Banana 2 电商爆款素材生成 | 直通车生图平替 | 高频投放素材可控编辑",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "Nano Banana 2",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

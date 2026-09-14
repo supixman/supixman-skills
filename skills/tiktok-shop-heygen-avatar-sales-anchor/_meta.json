@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-heygen-avatar-sales-anchor",
+  "title": "TikTok电商本地化AI数字人带货主播 | HeyGen平替 | 欧美真人口播出海",
+  "template": "T5_sales_video",
+  "platform": "TikTok Shop",
+  "competitor": "HeyGen",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

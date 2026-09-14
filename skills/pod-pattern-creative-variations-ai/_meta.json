@@ -1,0 +1,10 @@
+{
+  "name": "pod-pattern-creative-variations-ai",
+  "title": "电商印花裂变 | 图案裂变平替 | 基于单张印花裂变出丰富颜色、排版与风格",
+  "template": "T1_scene_image",
+  "platform": "Etsy / Shopify / Amazon",
+  "competitor": "图案裂变工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

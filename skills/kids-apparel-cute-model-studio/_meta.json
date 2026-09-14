@@ -1,0 +1,10 @@
+{
+  "name": "kids-apparel-cute-model-studio",
+  "title": "童装萌童模特场景商拍 | 环球外模平替 | 欧美萌娃室内外玩耍场景",
+  "template": "T3_virtual_fitting",
+  "platform": "童装母婴类目",
+  "competitor": "环球童模商拍",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "canva-ecom-promo-poster-creator",
+  "title": "电商促销海报 | Canva平替 | 自动适配各平台海报尺寸与营销标签",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "Canva (可画)",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

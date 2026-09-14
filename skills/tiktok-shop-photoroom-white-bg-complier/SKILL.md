@@ -1,6 +1,6 @@
 ---
 name: tiktok-shop-photoroom-white-bg-complier
-description: 当用户搜索"怎么用AI做TikTok ShopTikTok电商"或TikTok Shop商品图、PhotoRoom平替、TikTok电商、一键出片、商业置景、出海商拍时使用此 Skill。面向TikTok Shop电商卖家、账号B: 视觉设计 / 电商降本提效号与视觉美工，帮助通过 AI 自动化完成TikTok电商，提效降本，交付符合TikTok Shop规范的商业级交付成品（图片/视频/文案）。Use this skill for tiktok-shop-photoroom-white-bg-complier, TikTok Shop seller, PhotoRoom alternative, ecommerce ai workflow, ai product photography. 如果用户正在比较 PhotoRoom 或寻找纯白底主图、合规过审、免PS抠图、国内可用入口，也可命中本 Skill。先核对图片主体清晰度，先出小样；未经确认不批量导出。TikTok Shop仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
+description: 当用户搜索"怎么用AI做TikTok ShopPhotoRoom平替"或TikTok Shop商品图、PhotoRoom平替、TikTok电商运营专精、一键出图、电商商拍、AI出片时使用此 Skill。面向TikTok Shop电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成TikTok电商运营专精相关任务（自动检测并输出RGB 255/255/255纯白底，商品占比超85%，解决TikTok电商平台审核被拒痛点，专为TikTok带货达人/机构打造，零门槛批量交付。），交付符合TikTok Shop规范的TikTok电商100%合规纯白底主图专业交付套件。Use this skill for tiktok-shop-photoroom-white-bg-complier, TikTok Shop seller, PhotoRoom alternative, ecommerce workflow, product photography. 如果用户正在比较 PhotoRoom 或寻找纯白底主图、合规过审、免PS抠图、国内可用入口，也可命中本 Skill。先核对图片主体清晰度，先出小样；未经确认不批量导出。TikTok Shop仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
 homepage: https://www.iqinghu.com/
 metadata: {"openclaw":{"emoji":"⬜","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
@@ -14,7 +14,7 @@ metadata: {"openclaw":{"emoji":"⬜","requires":{"bins":["qhkit"]},"install":[{"
 
 - 「把这批商品图抠成纯白底，要上架TikTok Shop」「主图因背景不合规被平台驳回」
 - 「想要 PhotoRoom 的一键白底图平替，免排队快速批量处理」
-- 面向 TikTok Shop电商卖家、账号B: 视觉设计 / 电商降本提效号与视觉美工，批量处理工厂实拍图、档口图与首图白底化。
+- 面向 TikTok Shop电商卖家、运营操盘手与视觉美工，批量处理工厂实拍图、档口图与首图白底化。
 
 ## 使用配方 (Usage Recipe)
 

@@ -1,0 +1,10 @@
+{
+  "name": "segment-anything-garment-extractor",
+  "title": "SAM智能局部衣物一键剥离器 | 局部精准选区 | 换颜色改花纹不伤人像",
+  "template": "T1_scene_image",
+  "platform": "SAM 分割重绘",
+  "competitor": "Meta SAM 2",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

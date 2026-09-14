@@ -1,0 +1,10 @@
+{
+  "name": "crossborder-model-faceswap-global",
+  "title": "AI电商模特换脸 | 外模拍摄平替 | 迎合海外本地买家面孔偏好",
+  "template": "T3_virtual_fitting",
+  "platform": "全电商平台通用",
+  "competitor": "专业外模商拍机构",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

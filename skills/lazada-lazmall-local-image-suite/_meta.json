@@ -1,0 +1,10 @@
+{
+  "name": "lazada-lazmall-local-image-suite",
+  "title": "Lazada 商品图、主图套图、详情图、活动图生成 | Lazada美工平替 | LazMall大促海报/东南亚本土化满减促销图",
+  "template": "T2_white_background",
+  "platform": "Lazada",
+  "competitor": "LazMall设计外包",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

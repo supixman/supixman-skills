@@ -1,0 +1,10 @@
+{
+  "name": "douyin-1688-fast-listing-copilot",
+  "title": "抖音-极速上货助手 | 上货助手平替 | 自动采集1688热卖商品",
+  "template": "T1_scene_image",
+  "platform": "抖音 / 抖店",
+  "competitor": "抖店极速铺货工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

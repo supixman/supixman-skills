@@ -1,0 +1,10 @@
+{
+  "name": "runway-cinematic-liquid-smoke-fx",
+  "title": "商品电影级镜头与物理特效 | Runway平替 | 水波流转/烟雾萦绕动效",
+  "template": "T5_sales_video",
+  "platform": "影视级物理动态视频",
+  "competitor": "Runway Gen-3",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

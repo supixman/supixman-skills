@@ -1,0 +1,10 @@
+{
+  "name": "printify-pod-3d-mockup-applier",
+  "title": "电商印花贴合 | POD贴图平替 | 一键提取印花并真实贴合到各种白坯商品样机",
+  "template": "T1_scene_image",
+  "platform": "Etsy / Shopify / Amazon",
+  "competitor": "Printify / Gelato",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

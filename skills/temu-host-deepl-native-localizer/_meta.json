@@ -1,0 +1,10 @@
+{
+  "name": "temu-host-deepl-native-localizer",
+  "title": "TEMU跨境地道母语本土化翻译官 | DeepL平替 | 跨越文化语言障碍",
+  "template": "T1_scene_image",
+  "platform": "TEMU全托管/半托管",
+  "competitor": "DeepL",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

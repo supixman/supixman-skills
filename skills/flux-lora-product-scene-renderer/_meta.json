@@ -1,0 +1,10 @@
+{
+  "name": "flux-lora-product-scene-renderer",
+  "title": "Flux.1工业级商品重绘渲染工作流 | Midjourney平替 | 本地离线高保真商拍",
+  "template": "T1_scene_image",
+  "platform": "本地部署/开发者",
+  "competitor": "Flux.1 / Midjourney",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

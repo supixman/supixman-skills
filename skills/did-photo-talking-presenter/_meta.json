@@ -1,0 +1,10 @@
+{
+  "name": "did-photo-talking-presenter",
+  "title": "单张模特照片开口讲英文 | D-ID平替 | 轻量化带货解说短视频",
+  "template": "T5_sales_video",
+  "platform": "单图快速开口",
+  "competitor": "D-ID",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

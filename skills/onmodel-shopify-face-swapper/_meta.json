@@ -1,0 +1,10 @@
+{
+  "name": "onmodel-shopify-face-swapper",
+  "title": "独立站模特换脸换装插件 | OnModel平替 | 跨国买家本土面孔无缝替换",
+  "template": "T3_virtual_fitting",
+  "platform": "Shopify/DTC独立站",
+  "competitor": "OnModel",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

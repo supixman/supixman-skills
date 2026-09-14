@@ -1,0 +1,10 @@
+{
+  "name": "rednote-aesthetic-video-maker",
+  "title": "小红书 爆款视频生成 | 小红书视频平替 | 打造高审美氛围感种草短片与开箱评测",
+  "template": "T5_sales_video",
+  "platform": "小红书 (RedNote)",
+  "competitor": "小红书Vlog工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

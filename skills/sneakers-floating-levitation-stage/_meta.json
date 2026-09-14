@@ -1,0 +1,10 @@
+{
+  "name": "sneakers-floating-levitation-stage",
+  "title": "运动球鞋3D悬浮科技感商拍台 | 耐克阿迪级商拍 | 悬浮解构与动感光效",
+  "template": "T1_scene_image",
+  "platform": "鞋靴类目专精",
+  "competitor": "商业摄影大师",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

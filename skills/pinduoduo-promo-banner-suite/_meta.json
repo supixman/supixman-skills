@@ -1,0 +1,10 @@
+{
+  "name": "pinduoduo-promo-banner-suite",
+  "title": "拼多多 商品图、主图套图、详情图、活动图生成 | 拼多多美工平替 | 下沉市场强对比白底图/满减活动图/轮播图",
+  "template": "T2_white_background",
+  "platform": "拼多多",
+  "competitor": "拼多多运营外包",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

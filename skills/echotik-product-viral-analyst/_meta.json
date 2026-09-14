@@ -1,0 +1,10 @@
+{
+  "name": "echotik-product-viral-analyst",
+  "title": "TikTok-单品分析师 | EchoTik平替 | 为批量订货与红人投放提供精准数据依据",
+  "template": "T1_scene_image",
+  "platform": "TikTok / TikTok Shop",
+  "competitor": "EchoTik",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "weshop-ghost-mannequin-to-model",
+  "title": "人台图秒变欧美真人超模 | WeShop平替 | 假人台无痕转棚拍真人超模",
+  "template": "T3_virtual_fitting",
+  "platform": "全平台/出海服饰",
+  "competitor": "唯象 WeShop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "walmart-marketplace-spec-asset-pack",
+  "title": "沃尔玛电商合规高清资产套件 | Walmart入驻标配 | 丰富多角度场景生活图",
+  "template": "T1_scene_image",
+  "platform": "Walmart (沃尔玛跨境)",
+  "competitor": "沃尔玛运营助手",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

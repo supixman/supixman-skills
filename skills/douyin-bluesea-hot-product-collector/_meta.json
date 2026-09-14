@@ -1,0 +1,10 @@
+{
+  "name": "douyin-bluesea-hot-product-collector",
+  "title": "抖音-蓝海爆品采集师 | 抖店选品平替 | 规避红海大词竞争",
+  "template": "T1_scene_image",
+  "platform": "抖音 / 抖店",
+  "competitor": "抖店蓝海爆品工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

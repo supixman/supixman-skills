@@ -1,0 +1,10 @@
+{
+  "name": "1688-factory-spec-image-suite",
+  "title": "1688 商品图、主图套图、详情图、活动图生成 | 1688美工平替 | 工业风主图/参数图/细节拆解/多SKU组合图",
+  "template": "T2_white_background",
+  "platform": "1688批发",
+  "competitor": "1688美工外包",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

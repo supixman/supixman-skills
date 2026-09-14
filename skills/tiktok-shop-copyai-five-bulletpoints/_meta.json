@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-copyai-five-bulletpoints",
+  "title": "TikTok电商高转化五点描述撰写引擎 | Copy.ai平替 | 地道母语促单转化",
+  "template": "T1_scene_image",
+  "platform": "TikTok Shop",
+  "competitor": "Copy.ai",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

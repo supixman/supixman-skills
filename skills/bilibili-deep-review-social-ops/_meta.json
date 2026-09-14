@@ -1,0 +1,10 @@
+{
+  "name": "bilibili-deep-review-social-ops",
+  "title": "B站-社媒运营专家 | 火烧云平替 | 深度测评脚本与弹幕舆情把控",
+  "template": "T1_scene_image",
+  "platform": "B站 (Bilibili)",
+  "competitor": "火烧云数据",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

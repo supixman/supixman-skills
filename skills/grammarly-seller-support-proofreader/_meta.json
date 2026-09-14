@@ -1,0 +1,10 @@
+{
+  "name": "grammarly-seller-support-proofreader",
+  "title": "跨境商务英文与差评申诉校对 | Grammarly平替 | 100%地道语法纠错",
+  "template": "T1_scene_image",
+  "platform": "跨境客服与邮件",
+  "competitor": "Grammarly Business",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

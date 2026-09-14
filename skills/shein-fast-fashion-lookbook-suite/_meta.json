@@ -1,0 +1,10 @@
+{
+  "name": "shein-fast-fashion-lookbook-suite",
+  "title": "SHEIN 商品图、主图套图、详情图、活动图生成 | SHEIN摄影平替 | 快时尚欧美风模特街拍/平铺图/穿搭场景图",
+  "template": "T2_white_background",
+  "platform": "SHEIN",
+  "competitor": "SHEIN快时尚摄影",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

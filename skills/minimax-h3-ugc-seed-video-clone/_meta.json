@@ -1,0 +1,10 @@
+{
+  "name": "minimax-h3-ugc-seed-video-clone",
+  "title": "MiniMax H3 爆款视频复刻 | 素人种草仿拍平替 | 提取爆款情绪音色话术",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "MiniMax 仿拍版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

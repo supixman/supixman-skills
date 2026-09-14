@@ -1,0 +1,10 @@
+{
+  "name": "cli-batch-image-processor-engine",
+  "title": "无头CLI电商图片批量处理引擎 | 极客自动化标配 | 脚本一键处理万张SKU",
+  "template": "T1_scene_image",
+  "platform": "自动化运维",
+  "competitor": "开源ImageMagick加强版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

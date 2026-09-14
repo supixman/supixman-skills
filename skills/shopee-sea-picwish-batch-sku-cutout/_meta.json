@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-picwish-batch-sku-cutout",
+  "title": "Shopee东南亚海量SKU批量抠图换底机 | 佐糖平替 | 秒级批处理自动化",
+  "template": "T4_sku_recolor",
+  "platform": "Shopee/Lazada",
+  "competitor": "佐糖 PicWish",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

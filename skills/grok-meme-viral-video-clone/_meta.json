@@ -1,0 +1,10 @@
+{
+  "name": "grok-meme-viral-video-clone",
+  "title": "Grok 爆款视频复刻 | 老梗新拍平替 | 挖爆款情绪热点老梗新拍",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "Grok 仿拍版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

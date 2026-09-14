@@ -1,0 +1,10 @@
+{
+  "name": "capcut-sales-video-auto-maker",
+  "title": "AI电商带货视频 | CapCut平替 | 上传商品图即可自动合成带货视频",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "CapCut / 剪映商业版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

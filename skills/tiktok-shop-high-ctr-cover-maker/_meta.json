@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-high-ctr-cover-maker",
+  "title": "TikTok Shop 商品图、主图套图、详情图、活动图生成 | TikTok美工平替 | 短视频挂车封面/高点击商城主图/种草投流素材",
+  "template": "T2_white_background",
+  "platform": "TikTok / TikTok Shop",
+  "competitor": "TikTok视觉设计",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

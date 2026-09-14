@@ -1,0 +1,10 @@
+{
+  "name": "product-video-super-resolution-pro",
+  "title": "商品视频画质提升 | 超清修复平替 | 高清放大与智能补帧兼顾",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "画质超清提升工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

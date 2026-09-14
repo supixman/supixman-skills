@@ -1,0 +1,10 @@
+{
+  "name": "jasper-dtc-brand-storytelling-engine",
+  "title": "DTC独立站高溢价品牌故事撰写 | Jasper平替 | 欧美轻奢调性关于我们",
+  "template": "T1_scene_image",
+  "platform": "Shopify / DTC独立站",
+  "competitor": "Jasper.ai",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

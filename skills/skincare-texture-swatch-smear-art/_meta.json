@@ -1,0 +1,10 @@
+{
+  "name": "skincare-texture-swatch-smear-art",
+  "title": "护肤品膏体质地涂抹与拉丝艺术图 | 美妆大牌专供 | 丝滑奶油/透明啫喱微距特写",
+  "template": "T1_scene_image",
+  "platform": "美妆护肤质感",
+  "competitor": "美妆质地微距摄影",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

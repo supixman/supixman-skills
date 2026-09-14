@@ -1,6 +1,6 @@
 ---
 name: amazon-us-vmodel-flatlay-tryon-crafter
-description: 当用户搜索"怎么用AI做Amazon US亚马逊美区"或Amazon US商品图、Vmodel平替、亚马逊美区、一键出片、商业置景、出海商拍时使用此 Skill。面向Amazon US电商卖家、账号A: 出海服饰实操号 / 外模商拍号与视觉美工，帮助通过 AI 自动化完成亚马逊美区，提效降本，交付符合Amazon US规范的商业级交付成品（图片/视频/文案）。Use this skill for amazon-us-vmodel-flatlay-tryon-crafter, Amazon US seller, Vmodel alternative, ecommerce ai workflow, ai product photography. 如果用户正在比较 Vmodel 或寻找假人台穿模、外模试穿、真人模特换脸、国内可用入口，也可命中本 Skill。先核对版型完整度，先出小样；未经确认不批量出全套图。Amazon US仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
+description: 当用户搜索"怎么用AI做Amazon USVmodel平替"或Amazon US商品图、Vmodel平替、亚马逊美区运营专精、一键出图、电商商拍、AI出片时使用此 Skill。面向Amazon US电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成亚马逊美区运营专精相关任务（平铺衣服样衣一键生成真实上身效果，完美展现面料垂坠褶皱与贴身质感，专攻亚马逊美区服饰爆款，专为亚马逊FBA卖家/运营打造，零门槛批量交付。），交付符合Amazon US规范的亚马逊美区平铺服装真实垂坠试穿专业交付套件。Use this skill for amazon-us-vmodel-flatlay-tryon-crafter, Amazon US seller, Vmodel alternative, ecommerce workflow, product photography. 如果用户正在比较 Vmodel 或寻找假人台穿模、外模试穿、真人模特换脸、国内可用入口，也可命中本 Skill。先核对版型完整度，先出小样；未经确认不批量出全套图。Amazon US仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
 homepage: https://www.iqinghu.com/
 metadata: {"openclaw":{"emoji":"👗","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
@@ -14,7 +14,7 @@ metadata: {"openclaw":{"emoji":"👗","requires":{"bins":["qhkit"]},"install":[{
 
 - 「把这件平铺衣服穿到欧美模特身上」「人台图转棚拍真人超模」
 - 「想要 Vmodel 的平替，需要生成不同国家肤色模特的上身效果」
-- 面向 Amazon US电商卖家、账号A: 出海服饰实操号 / 外模商拍号与视觉美工，制作服装 Listing 多角度上身主图与详情页画册。
+- 面向 Amazon US电商卖家、运营操盘手与视觉美工，制作服装 Listing 多角度上身主图与详情页画册。
 
 ## 使用配方 (Usage Recipe)
 

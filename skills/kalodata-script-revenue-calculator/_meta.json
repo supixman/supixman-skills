@@ -1,0 +1,10 @@
+{
+  "name": "kalodata-script-revenue-calculator",
+  "title": "带货短视频带货金额与脚本拆解 | Kalodata平替 | 单条视频产出ROI分析",
+  "template": "T1_scene_image",
+  "platform": "TikTok Shop",
+  "competitor": "Kalodata",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

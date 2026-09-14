@@ -1,0 +1,10 @@
+{
+  "name": "larkai-main-image-carousel-suite",
+  "title": "AI电商主图轮播图 | 小云雀平替 | 单张产品图一键搞定全套5张上架主图与轮播图",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "小云雀 (Lark AI)",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

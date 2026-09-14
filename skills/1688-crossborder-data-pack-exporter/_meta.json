@@ -1,0 +1,10 @@
+{
+  "name": "1688-crossborder-data-pack-exporter",
+  "title": "1688厂货一键转跨境英文数据包 | 工厂一键出海 | 中文详情自动转英文白底",
+  "template": "T1_scene_image",
+  "platform": "1688 源头厂货",
+  "competitor": "1688跨境超级分销",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

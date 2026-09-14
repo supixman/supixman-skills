@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-promo-urgency-badge-maker",
+  "title": "SHEIN希音促销大促吸睛角标合成器 | 限时促单利器 | 提升点击率50%",
+  "template": "T1_scene_image",
+  "platform": "SHEIN自营/平台",
+  "competitor": "促销设计",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

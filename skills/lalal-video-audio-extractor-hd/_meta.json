@@ -1,0 +1,10 @@
+{
+  "name": "lalal-video-audio-extractor-hd",
+  "title": "AI视频音频提取 | 人声分离平替 | 快速提取热门BGM伴奏与爆款旁白音频",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "LALAL.AI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

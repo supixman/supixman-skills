@@ -1,0 +1,10 @@
+{
+  "name": "video-subtitle-eraser-inpaint",
+  "title": "AI视频去字幕 | 去字幕平替 | 智能识别擦除视频字幕并无痕补全画面背景",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "字幕擦除商业工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

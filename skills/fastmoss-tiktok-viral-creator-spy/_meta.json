@@ -1,0 +1,10 @@
+{
+  "name": "fastmoss-tiktok-viral-creator-spy",
+  "title": "TikTok带货达人与爆品大盘透视 | FastMoss平替 | 飙升榜商品脚本拆解",
+  "template": "T1_scene_image",
+  "platform": "TikTok Shop",
+  "competitor": "FastMoss",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

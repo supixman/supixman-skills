@@ -1,0 +1,10 @@
+{
+  "name": "linkfox-tiktok-bluesea-scout",
+  "title": "TikTok-蓝海爆品采集师 | LinkFox平替 | 大幅缩短从选品看盘到刊登上架的周期",
+  "template": "T1_scene_image",
+  "platform": "TikTok / TikTok Shop",
+  "competitor": "LinkFox",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

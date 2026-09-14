@@ -1,0 +1,10 @@
+{
+  "name": "sellersprite-keyword-blueocean-picker",
+  "title": "亚马逊-关键词选品专家 | 卖家精灵平替 | 以词定款纯自然流获客",
+  "template": "T1_scene_image",
+  "platform": "亚马逊 (Amazon)",
+  "competitor": "卖家精灵 (SellerSprite)",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

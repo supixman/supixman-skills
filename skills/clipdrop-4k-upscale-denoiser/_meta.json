@@ -1,0 +1,10 @@
+{
+  "name": "clipdrop-4k-upscale-denoiser",
+  "title": "画质4K超分与无痕消除 | Clipdrop平替 | 细节无损放大/去除杂物水印",
+  "template": "T1_scene_image",
+  "platform": "全平台高精素材",
+  "competitor": "Clipdrop",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

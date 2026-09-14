@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-ugc-viral-video-maker",
+  "title": "TikTok 爆款视频生成 | TikTok爆款平替 | 多语言口播卡点变装与跨境爆款种草视频",
+  "template": "T5_sales_video",
+  "platform": "TikTok / TikTok Shop",
+  "competitor": "TikTok Ads制作工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

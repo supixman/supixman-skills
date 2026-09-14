@@ -1,0 +1,10 @@
+{
+  "name": "jd-3c-appliance-image-suite",
+  "title": "京东 商品图、主图套图、详情图、活动图生成 | 京东美工平替 | 高质感白底主图/3C数码家电参数图/大促KV",
+  "template": "T2_white_background",
+  "platform": "京东",
+  "competitor": "京东设计外包",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

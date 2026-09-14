@@ -1,0 +1,10 @@
+{
+  "name": "capcut-viral-sales-video-maker",
+  "title": "商品图秒变TikTok爆款短视频 | 剪映平替 | 热门节奏卡点与动效转场",
+  "template": "T5_sales_video",
+  "platform": "TikTok Shop/Reels",
+  "competitor": "CapCut (剪映海外版)",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "picwish-batch-cutout-watermark-wipe",
+  "title": "批量抠图换白底去水印 | 佐糖平替 | 千张商品图秒级自动化批处理",
+  "template": "T1_scene_image",
+  "platform": "批量修图工坊",
+  "competitor": "佐糖 PicWish",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

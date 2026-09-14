@@ -1,0 +1,10 @@
+{
+  "name": "sales-video-hook-script-ai",
+  "title": "AI电商带货脚本 | 带货脚本平替 | 自动输出前3秒抓人黄金口播、测评、种草脚本",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "带货文案大师",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

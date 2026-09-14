@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-heygen-avatar-sales-anchor",
+  "title": "Shopee东南亚本地化AI数字人带货主播 | HeyGen平替 | 欧美真人口播出海",
+  "template": "T5_sales_video",
+  "platform": "Shopee/Lazada",
+  "competitor": "HeyGen",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

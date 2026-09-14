@@ -1,0 +1,10 @@
+{
+  "name": "ozon-infographic-russian-rich-content",
+  "title": "Ozon俄语富媒体Rich-Content长图 | 俄罗斯大卖标配 | 地道俄语卖点说明书",
+  "template": "T1_scene_image",
+  "platform": "Ozon (俄罗斯电商)",
+  "competitor": "Ozon大卖视觉",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

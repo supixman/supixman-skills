@@ -1,0 +1,10 @@
+{
+  "name": "kling-3-viral-video-clone-master",
+  "title": "可灵 Kling 3.0 爆款视频复刻 | 可灵仿拍平替 | 拆解热门镜头语言后利用可灵3.0同款重构",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "可灵 3.0 仿拍版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

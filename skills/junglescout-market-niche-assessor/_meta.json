@@ -1,0 +1,10 @@
+{
+  "name": "junglescout-market-niche-assessor",
+  "title": "亚马逊-细分市场评估师 | Jungle Scout平替 | 防止盲目进入饱和红海类目造成压货亏损",
+  "template": "T1_scene_image",
+  "platform": "亚马逊 (Amazon)",
+  "competitor": "Jungle Scout",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

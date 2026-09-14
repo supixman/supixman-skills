@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-captions-eye-contact-subtitles",
+  "title": "TikTok电商口播视线矫正与高亮字幕 | Captions平替 | 完播率提升利器",
+  "template": "T1_scene_image",
+  "platform": "TikTok Shop",
+  "competitor": "Captions",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

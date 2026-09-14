@@ -1,0 +1,10 @@
+{
+  "name": "helium10-cerebro-asin-reverse-spy",
+  "title": "亚马逊ASIN流量词反查透视 | Helium 10平替 | 扒光头部竞品出单词库",
+  "template": "T1_scene_image",
+  "platform": "Amazon (亚马逊)",
+  "competitor": "Helium 10 (H10)",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

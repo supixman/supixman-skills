@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-capcut-viral-sales-shorts",
+  "title": "Shopee东南亚商品图秒变卡点短视频 | 剪映平替 | 爆款节奏BGM动效",
+  "template": "T5_sales_video",
+  "platform": "Shopee/Lazada",
+  "competitor": "CapCut",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

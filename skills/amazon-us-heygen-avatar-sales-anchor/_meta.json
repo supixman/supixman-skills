@@ -1,0 +1,10 @@
+{
+  "name": "amazon-us-heygen-avatar-sales-anchor",
+  "title": "亚马逊美区本地化AI数字人带货主播 | HeyGen平替 | 欧美真人口播出海",
+  "template": "T5_sales_video",
+  "platform": "Amazon US",
+  "competitor": "HeyGen",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

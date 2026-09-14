@@ -1,0 +1,10 @@
+{
+  "name": "controlnet-pose-fashion-stabilizer",
+  "title": "服装模特指定Pose姿态锁定器 | 姿态高保真控制 | 站立行走特写随心换",
+  "template": "T1_scene_image",
+  "platform": "ControlNet 骨骼姿态",
+  "competitor": "ControlNet OpenPose",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

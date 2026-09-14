@@ -1,0 +1,10 @@
+{
+  "name": "douyin-trending-social-director",
+  "title": "抖音-社媒运营专家 | 蝉妈妈平替 | 快速追踪行业飙升热点",
+  "template": "T1_scene_image",
+  "platform": "抖音 / 抖店",
+  "competitor": "蝉妈妈社媒版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

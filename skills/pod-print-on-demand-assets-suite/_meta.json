@@ -1,0 +1,10 @@
+{
+  "name": "pod-print-on-demand-assets-suite",
+  "title": "AI生成电商pod素材 | POD设计全案平替 | 印花提取贴合裂变一站式搞定",
+  "template": "T1_scene_image",
+  "platform": "Etsy / Shopify / Amazon",
+  "competitor": "Printify设计平台",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

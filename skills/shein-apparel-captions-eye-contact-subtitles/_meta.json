@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-captions-eye-contact-subtitles",
+  "title": "SHEIN希音口播视线矫正与高亮字幕 | Captions平替 | 完播率提升利器",
+  "template": "T1_scene_image",
+  "platform": "SHEIN自营/平台",
+  "competitor": "Captions",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "photoroom-bg-swap-studio",
+  "title": "电商背景替换 | PhotoRoom平替 | 免PS秒换商业背景",
+  "template": "T2_white_background",
+  "platform": "全电商平台通用",
+  "competitor": "PhotoRoom",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

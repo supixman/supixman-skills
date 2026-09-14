@@ -1,0 +1,10 @@
+{
+  "name": "grok-trendy-ecom-video-creator",
+  "title": "Grok 电商带货视频 | Grok网感平替 | 网感话题向商品短片",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "xAI Grok",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

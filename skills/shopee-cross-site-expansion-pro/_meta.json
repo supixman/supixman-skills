@@ -1,0 +1,10 @@
+{
+  "name": "shopee-cross-site-expansion-pro",
+  "title": "Shopee-跨站点拓客专家 | Shopee拓客平替 | 调研同款在各站点的分布与存活情况",
+  "template": "T1_scene_image",
+  "platform": "Shopee (东南亚)",
+  "competitor": "Shopee跨境拓客工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

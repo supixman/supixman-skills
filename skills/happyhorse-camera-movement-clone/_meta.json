@@ -1,0 +1,10 @@
+{
+  "name": "happyhorse-camera-movement-clone",
+  "title": "HappyHorse 1.1 爆款视频复刻 | 强运镜仿拍平替 | 强运镜转场控制",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "HappyHorse 仿拍版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

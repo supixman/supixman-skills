@@ -1,0 +1,10 @@
+{
+  "name": "cosmetics-commercial-lighting-stage",
+  "title": "美妆护肤品极简光影置景 | Flair AI平替 | 水波纹/飞溅液滴高级商拍",
+  "template": "T1_scene_image",
+  "platform": "美妆护肤静物",
+  "competitor": "Flair.ai",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

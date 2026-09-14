@@ -1,0 +1,10 @@
+{
+  "name": "boutique9-luxury-texture-tryon",
+  "title": "奢品礼服高保真质感上身 | Boutique9平替 | 蕾丝刺绣真实光影试戴",
+  "template": "T3_virtual_fitting",
+  "platform": "高端奢品礼服",
+  "competitor": "Boutique9",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

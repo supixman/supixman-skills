@@ -1,0 +1,10 @@
+{
+  "name": "vidu-q3-stopmotion-unboxing-clone",
+  "title": "Vidu Q3 爆款视频复刻 | 定格开箱平替 | 还原机位转场与定格动画感的时尚开箱二创",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "Vidu Q3 仿拍版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

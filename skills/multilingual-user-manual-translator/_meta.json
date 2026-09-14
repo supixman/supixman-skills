@@ -1,0 +1,10 @@
+{
+  "name": "multilingual-user-manual-translator",
+  "title": "多语言产品说明书与合规警告生成 | CE/FCC合规 | 图文排版操作手册",
+  "template": "T1_scene_image",
+  "platform": "包装说明书编写",
+  "competitor": "出海合规手册设计",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

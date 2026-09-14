@@ -1,0 +1,10 @@
+{
+  "name": "amazon-us-pixelcut-mobile-to-studio",
+  "title": "亚马逊美区手机生拍变专业商拍棚拍 | Pixelcut平替 | 档口样品秒变大片",
+  "template": "T1_scene_image",
+  "platform": "Amazon US",
+  "competitor": "Pixelcut",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

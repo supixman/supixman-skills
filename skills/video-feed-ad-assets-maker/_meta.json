@@ -1,0 +1,10 @@
+{
+  "name": "video-feed-ad-assets-maker",
+  "title": "AI电商视频广告 | 广告视频平替 | 快速生成适合投流的信息流高点击视频素材",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "信息流视频工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

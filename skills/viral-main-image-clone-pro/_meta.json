@@ -1,0 +1,10 @@
+{
+  "name": "viral-main-image-clone-pro",
+  "title": "电商爆款主图复刻 | 爆款主图平替 | 参考热卖爆款",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "爆款主图设计工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

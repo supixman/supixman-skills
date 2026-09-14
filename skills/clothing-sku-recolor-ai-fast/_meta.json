@@ -1,0 +1,10 @@
+{
+  "name": "clothing-sku-recolor-ai-fast",
+  "title": "AI电商服装换色 | 服装修图平替 | 只打样1件实物即可生成全色系SKU图",
+  "template": "T4_sku_recolor",
+  "platform": "全电商平台通用",
+  "competitor": "专业服装修图外包",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

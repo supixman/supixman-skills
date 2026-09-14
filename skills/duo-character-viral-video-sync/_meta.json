@@ -1,0 +1,10 @@
+{
+  "name": "duo-character-viral-video-sync",
+  "title": "双人爆款视频模仿 | 双人仿拍平替 | 双人动作神态精准同步",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "双人带货视频工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

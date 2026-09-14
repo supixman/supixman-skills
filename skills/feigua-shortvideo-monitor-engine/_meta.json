@@ -1,0 +1,10 @@
+{
+  "name": "feigua-shortvideo-monitor-engine",
+  "title": "短视频数据引擎 | 飞瓜平替 | 自动化每日抓取短视频播放互动全维转化数据",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "飞瓜数据 / 蝉妈妈",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

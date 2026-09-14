@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-heygen-avatar-sales-anchor",
+  "title": "SHEIN希音本地化AI数字人带货主播 | HeyGen平替 | 欧美真人口播出海",
+  "template": "T5_sales_video",
+  "platform": "SHEIN自营/平台",
+  "competitor": "HeyGen",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "heygen-global-avatar-spokesperson",
+  "title": "多语种AI带货主播生成器 | HeyGen平替 | 欧美真人口播/唇形同步解说",
+  "template": "T5_sales_video",
+  "platform": "全平台出海带货",
+  "competitor": "HeyGen",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

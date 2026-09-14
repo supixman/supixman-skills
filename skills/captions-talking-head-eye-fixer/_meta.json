@@ -1,0 +1,10 @@
+{
+  "name": "captions-talking-head-eye-fixer",
+  "title": "口播视线矫正与AI动效字幕 | Captions平替 | 专注眼神锁定与高留存特效",
+  "template": "T5_sales_video",
+  "platform": "口播视线与弹幕剪辑",
+  "competitor": "Captions.ai",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

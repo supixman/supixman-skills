@@ -1,0 +1,10 @@
+{
+  "name": "douyin-viral-hook-video-maker",
+  "title": "抖音 爆款视频生成 | 抖音爆款平替 | 前3秒抓人注意力",
+  "template": "T5_sales_video",
+  "platform": "抖音 / 抖店",
+  "competitor": "抖音起量工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

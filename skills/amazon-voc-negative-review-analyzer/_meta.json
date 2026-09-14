@@ -1,0 +1,10 @@
+{
+  "name": "amazon-voc-negative-review-analyzer",
+  "title": "亚马逊差评VOC用户痛点反推仪 | 竞品改进神器 | 提炼致命缺陷逆向研发",
+  "template": "T1_scene_image",
+  "platform": "差评深度挖掘",
+  "competitor": "卖家VOC洞察",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

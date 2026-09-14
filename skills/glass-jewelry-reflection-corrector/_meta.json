@@ -1,0 +1,10 @@
+{
+  "name": "glass-jewelry-reflection-corrector",
+  "title": "玻璃透明与金银反光校准 | 专业商业精修平替 | 剔除穿帮倒影透亮出图",
+  "template": "T1_scene_image",
+  "platform": "反光透明材质商拍",
+  "competitor": "商业修图大师",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

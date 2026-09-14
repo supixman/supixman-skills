@@ -1,0 +1,10 @@
+{
+  "name": "christmas-holiday-product-theme-stager",
+  "title": "圣诞节节日主题商品置景机 | 年终大促冲量 | 雪花松果礼盒红绿氛围",
+  "template": "T1_scene_image",
+  "platform": "全球大促营销",
+  "competitor": "节日营销策划",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ecom-image-ad-creative-engine",
+  "title": "AI电商图文广告 | 投放图文平替 | 自动生成各尺寸广告投放图文素材",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "广告投放素材库",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

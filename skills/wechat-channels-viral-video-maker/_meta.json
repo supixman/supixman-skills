@@ -1,0 +1,10 @@
+{
+  "name": "wechat-channels-viral-video-maker",
+  "title": "视频号 爆款视频生成 | 视频号爆款平替 | 情感共鸣好物分享与私域引流带货视频",
+  "template": "T5_sales_video",
+  "platform": "微信视频号",
+  "competitor": "视频号剪辑工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

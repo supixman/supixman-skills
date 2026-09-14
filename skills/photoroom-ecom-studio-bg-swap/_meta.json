@@ -1,0 +1,10 @@
+{
+  "name": "photoroom-ecom-studio-bg-swap",
+  "title": "电商白底场景一键重构 | PhotoRoom平替 | 影棚柔光/极简生活换背景",
+  "template": "T2_white_background",
+  "platform": "全平台商拍",
+  "competitor": "PhotoRoom",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "model-multi-pose-catalog-maker",
+  "title": "电商服装多姿势套图 | 多姿势套图平替 | 自动生成多种模特展示角度",
+  "template": "T3_virtual_fitting",
+  "platform": "全电商平台通用",
+  "competitor": "专业影棚模特",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

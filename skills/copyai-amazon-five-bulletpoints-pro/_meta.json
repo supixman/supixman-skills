@@ -1,0 +1,10 @@
+{
+  "name": "copyai-amazon-five-bulletpoints-pro",
+  "title": "亚马逊高转化五点描述爆单器 | Copy.ai平替 | 埋词率100%合规文案",
+  "template": "T1_scene_image",
+  "platform": "Amazon (亚马逊)",
+  "competitor": "Copy.ai",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

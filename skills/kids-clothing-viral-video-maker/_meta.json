@@ -1,0 +1,10 @@
+{
+  "name": "kids-clothing-viral-video-maker",
+  "title": "爆款童装视频模仿 | 童装仿拍平替 | 精准完成儿童模特动作迁移",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "童装短视频工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

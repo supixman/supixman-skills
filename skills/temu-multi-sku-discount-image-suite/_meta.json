@@ -1,0 +1,10 @@
+{
+  "name": "temu-multi-sku-discount-image-suite",
+  "title": "Temu 商品图、主图套图、详情图、活动图生成 | TEMU美工平替 | 强性价比视觉主图/满减折扣图/多SKU组合图",
+  "template": "T2_white_background",
+  "platform": "TEMU",
+  "competitor": "TEMU美工外包",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ecom-image-metadata-exif-stripper",
+  "title": "电商图片EXIF信息清洗与去重脱敏器 | 防关联防查重神器 | 原生拍摄参数重塑",
+  "template": "T1_scene_image",
+  "platform": "自动化无头脚本",
+  "competitor": "防关联安全工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

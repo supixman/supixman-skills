@@ -1,6 +1,6 @@
 ---
 name: amazon-us-photoroom-white-bg-complier
-description: 当用户搜索"怎么用AI做Amazon US亚马逊美区"或Amazon US商品图、PhotoRoom平替、亚马逊美区、一键出片、商业置景、出海商拍时使用此 Skill。面向Amazon US电商卖家、账号B: 视觉设计 / 电商降本提效号与视觉美工，帮助通过 AI 自动化完成亚马逊美区，提效降本，交付符合Amazon US规范的商业级交付成品（图片/视频/文案）。Use this skill for amazon-us-photoroom-white-bg-complier, Amazon US seller, PhotoRoom alternative, ecommerce ai workflow, ai product photography. 如果用户正在比较 PhotoRoom 或寻找纯白底主图、合规过审、免PS抠图、国内可用入口，也可命中本 Skill。先核对图片主体清晰度，先出小样；未经确认不批量导出。Amazon US仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
+description: 当用户搜索"怎么用AI做Amazon USPhotoRoom平替"或Amazon US商品图、PhotoRoom平替、亚马逊美区运营专精、一键出图、电商商拍、AI出片时使用此 Skill。面向Amazon US电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成亚马逊美区运营专精相关任务（自动检测并输出RGB 255/255/255纯白底，商品占比超85%，解决亚马逊美区平台审核被拒痛点，专为亚马逊FBA卖家/运营打造，零门槛批量交付。），交付符合Amazon US规范的亚马逊美区100%合规纯白底主图专业交付套件。Use this skill for amazon-us-photoroom-white-bg-complier, Amazon US seller, PhotoRoom alternative, ecommerce workflow, product photography. 如果用户正在比较 PhotoRoom 或寻找纯白底主图、合规过审、免PS抠图、国内可用入口，也可命中本 Skill。先核对图片主体清晰度，先出小样；未经确认不批量导出。Amazon US仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
 homepage: https://www.iqinghu.com/
 metadata: {"openclaw":{"emoji":"⬜","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
@@ -14,7 +14,7 @@ metadata: {"openclaw":{"emoji":"⬜","requires":{"bins":["qhkit"]},"install":[{"
 
 - 「把这批商品图抠成纯白底，要上架Amazon US」「主图因背景不合规被平台驳回」
 - 「想要 PhotoRoom 的一键白底图平替，免排队快速批量处理」
-- 面向 Amazon US电商卖家、账号B: 视觉设计 / 电商降本提效号与视觉美工，批量处理工厂实拍图、档口图与首图白底化。
+- 面向 Amazon US电商卖家、运营操盘手与视觉美工，批量处理工厂实拍图、档口图与首图白底化。
 
 ## 使用配方 (Usage Recipe)
 

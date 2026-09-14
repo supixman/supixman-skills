@@ -1,0 +1,10 @@
+{
+  "name": "echotik-category-trend-predictor",
+  "title": "TikTok东南亚与美区品类趋势预测 | EchoTik平替 | 销量断层爆品发现",
+  "template": "T1_scene_image",
+  "platform": "TikTok Shop",
+  "competitor": "EchoTik",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

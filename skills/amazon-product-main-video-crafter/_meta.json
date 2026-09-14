@@ -1,0 +1,10 @@
+{
+  "name": "amazon-product-main-video-crafter",
+  "title": "亚马逊主图视频极速出片机 | 官方合规主图视频 | 15秒痛点解法动态展示",
+  "template": "T5_sales_video",
+  "platform": "亚马逊主图视频",
+  "competitor": "亚马逊主图视频工坊",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

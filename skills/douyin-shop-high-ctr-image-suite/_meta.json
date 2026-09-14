@@ -1,0 +1,10 @@
+{
+  "name": "douyin-shop-high-ctr-image-suite",
+  "title": "抖音小店 商品图、主图套图、详情图、活动图生成 | 抖店美工平替 | 短视频封面/直播贴片/高饱和吸睛带货主图",
+  "template": "T2_white_background",
+  "platform": "抖音 / 抖店",
+  "competitor": "抖店美工外包",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

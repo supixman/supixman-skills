@@ -1,0 +1,10 @@
+{
+  "name": "heygen-video-dubbing-multilingual",
+  "title": "AI视频翻译 | HeyGen平替 | 原声音画同步的多语言本地化视频",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "HeyGen",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

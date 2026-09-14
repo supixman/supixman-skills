@@ -1,0 +1,10 @@
+{
+  "name": "shopee-hot-product-intercept-pro",
+  "title": "Shopee-爆款截流跟卖大师 | Shopee跟卖平替 | 快速定位东南亚各站点爆款并一键采集跟卖",
+  "template": "T1_scene_image",
+  "platform": "Shopee (东南亚)",
+  "competitor": "Shopee跟卖工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

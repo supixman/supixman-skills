@@ -1,0 +1,10 @@
+{
+  "name": "cinema-tvc-product-film-pro",
+  "title": "电影质感TVC广告 | Runway平替 | 电影级高质感产品TVC广告大片",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "Runway Gen-3",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

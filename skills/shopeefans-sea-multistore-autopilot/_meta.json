@@ -1,0 +1,10 @@
+{
+  "name": "shopeefans-sea-multistore-autopilot",
+  "title": "东南亚多店铺刊登与爆词采集 | 虾皮助手平替 | 一键采集跨语种铺货",
+  "template": "T1_scene_image",
+  "platform": "Shopee / Lazada",
+  "competitor": "ShopeeFans",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "viral-video-remake-toolkit-pro",
+  "title": "AI爆款视频复刻、音频提取 | 视频复刻工具平替 | 视频结构分析仿拍与音频提取一体化工具",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "爆款拆解剪辑工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

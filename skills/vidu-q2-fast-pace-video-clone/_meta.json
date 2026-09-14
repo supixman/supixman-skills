@@ -1,0 +1,10 @@
+{
+  "name": "vidu-q2-fast-pace-video-clone",
+  "title": "Vidu Q2 爆款视频复刻 | Vidu仿拍平替 | 复刻快节奏穿搭、开箱与创意特效爆款",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "Vidu Q2 仿拍版",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

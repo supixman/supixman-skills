@@ -1,0 +1,10 @@
+{
+  "name": "seedream-5-lite-chinese-typeset",
+  "title": "Seedream 5.0 Lite 生成电商图 | 中文生图排版平替 | 强化中文汉字渲染与排版",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "Qwen-Image / 通义千问",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

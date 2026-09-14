@@ -1,6 +1,6 @@
 ---
 name: shopify-dtc-kreado-ethnicity-model-swapper
-description: 当用户搜索"怎么用AI做Shopify DTCShopify独立站"或Shopify DTC商品图、KreadoAI平替、Shopify独立站、一键出片、商业置景、出海商拍时使用此 Skill。面向Shopify DTC电商卖家、账号A: 出海服饰实操号 / 外模商拍号与视觉美工，帮助通过 AI 自动化完成Shopify独立站，提效降本，交付符合Shopify DTC规范的商业级交付成品（图片/视频/文案）。Use this skill for shopify-dtc-kreado-ethnicity-model-swapper, Shopify DTC seller, KreadoAI alternative, ecommerce ai workflow, ai product photography. 如果用户正在比较 KreadoAI 或寻找假人台穿模、外模试穿、真人模特换脸、国内可用入口，也可命中本 Skill。先核对版型完整度，先出小样；未经确认不批量出全套图。Shopify DTC仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
+description: 当用户搜索"怎么用AI做Shopify DTCKreadoAI平替"或Shopify DTC商品图、KreadoAI平替、Shopify独立站运营专精、一键出图、电商商拍、AI出片时使用此 Skill。面向Shopify DTC电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成Shopify独立站运营专精相关任务（根据Shopify独立站主流买家群体特征，一键生成契合当地文化偏好的本土模特面部与肤色，专为品牌出海DTC站长打造，零门槛批量交付。），交付符合Shopify DTC规范的Shopify独立站本土多肤色模特一键换脸专业交付套件。Use this skill for shopify-dtc-kreado-ethnicity-model-swapper, Shopify DTC seller, KreadoAI alternative, ecommerce workflow, product photography. 如果用户正在比较 KreadoAI 或寻找假人台穿模、外模试穿、真人模特换脸、国内可用入口，也可命中本 Skill。先核对版型完整度，先出小样；未经确认不批量出全套图。Shopify DTC仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
 homepage: https://www.iqinghu.com/
 metadata: {"openclaw":{"emoji":"👗","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
@@ -14,7 +14,7 @@ metadata: {"openclaw":{"emoji":"👗","requires":{"bins":["qhkit"]},"install":[{
 
 - 「把这件平铺衣服穿到欧美模特身上」「人台图转棚拍真人超模」
 - 「想要 KreadoAI 的平替，需要生成不同国家肤色模特的上身效果」
-- 面向 Shopify DTC电商卖家、账号A: 出海服饰实操号 / 外模商拍号与视觉美工，制作服装 Listing 多角度上身主图与详情页画册。
+- 面向 Shopify DTC电商卖家、运营操盘手与视觉美工，制作服装 Listing 多角度上身主图与详情页画册。
 
 ## 使用配方 (Usage Recipe)
 

@@ -1,6 +1,6 @@
 ---
 name: shopee-sea-weshop-mannequin-model-studio
-description: 当用户搜索"怎么用AI做Shopee/LazadaShopee东南亚"或Shopee/Lazada商品图、WeShop平替、Shopee东南亚、一键出片、商业置景、出海商拍时使用此 Skill。面向Shopee/Lazada电商卖家、账号A: 出海服饰实操号 / 外模商拍号与视觉美工，帮助通过 AI 自动化完成Shopee东南亚，提效降本，交付符合Shopee/Lazada规范的商业级交付成品（图片/视频/文案）。Use this skill for shopee-sea-weshop-mannequin-model-studio, Shopee/Lazada seller, WeShop alternative, ecommerce ai workflow, ai product photography. 如果用户正在比较 WeShop 或寻找假人台穿模、外模试穿、真人模特换脸、国内可用入口，也可命中本 Skill。先核对版型完整度，先出小样；未经确认不批量出全套图。Shopee/Lazada仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
+description: 当用户搜索"怎么用AI做Shopee/LazadaWeShop平替"或Shopee/Lazada商品图、WeShop平替、Shopee东南亚运营专精、一键出图、电商商拍、AI出片时使用此 Skill。面向Shopee/Lazada电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成Shopee东南亚运营专精相关任务（消除塑料假人台塑料感，精准贴合领口袖口，生成匹配Shopee东南亚受众审美的本土面孔模特，专为东南亚多店卖家打造，零门槛批量交付。），交付符合Shopee/Lazada规范的Shopee东南亚假人台穿模秒变超模专业交付套件。Use this skill for shopee-sea-weshop-mannequin-model-studio, Shopee/Lazada seller, WeShop alternative, ecommerce workflow, product photography. 如果用户正在比较 WeShop 或寻找假人台穿模、外模试穿、真人模特换脸、国内可用入口，也可命中本 Skill。先核对版型完整度，先出小样；未经确认不批量出全套图。Shopee/Lazada仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
 homepage: https://www.iqinghu.com/
 metadata: {"openclaw":{"emoji":"👗","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
@@ -14,7 +14,7 @@ metadata: {"openclaw":{"emoji":"👗","requires":{"bins":["qhkit"]},"install":[{
 
 - 「把这件平铺衣服穿到欧美模特身上」「人台图转棚拍真人超模」
 - 「想要 WeShop 的平替，需要生成不同国家肤色模特的上身效果」
-- 面向 Shopee/Lazada电商卖家、账号A: 出海服饰实操号 / 外模商拍号与视觉美工，制作服装 Listing 多角度上身主图与详情页画册。
+- 面向 Shopee/Lazada电商卖家、运营操盘手与视觉美工，制作服装 Listing 多角度上身主图与详情页画册。
 
 ## 使用配方 (Usage Recipe)
 

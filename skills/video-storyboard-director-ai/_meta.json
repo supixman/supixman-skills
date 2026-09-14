@@ -1,0 +1,10 @@
+{
+  "name": "video-storyboard-director-ai",
+  "title": "AI视频分镜 | 分镜生成平替 | 镜头设计、运镜机位与文案分镜全流程输出",
+  "template": "T5_sales_video",
+  "platform": "全电商平台通用",
+  "competitor": "分镜绘制工具",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

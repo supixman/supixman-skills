@@ -1,0 +1,10 @@
+{
+  "name": "kreado-global-ethnicity-fitter",
+  "title": "多国籍肤色模特一键试衣 | KreadoAI平替 | 欧美/拉美/中东/日韩多肤色换模",
+  "template": "T3_virtual_fitting",
+  "platform": "多国出海/独立站",
+  "competitor": "看脑 KreadoAI",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

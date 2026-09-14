@@ -1,0 +1,10 @@
+{
+  "name": "opusclip-livestream-to-shorts-pro",
+  "title": "长直播智能切带货高光切片 | Opus Clip平替 | 自动抓取爆单出单瞬间",
+  "template": "T5_sales_video",
+  "platform": "长视频切带货切片",
+  "competitor": "Opus Clip",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "helium10-asin-spy-analyzer",
+  "title": "亚马逊-ASIN解析专家 | Helium 10平替 | 秒级透析对标爆款打法",
+  "template": "T1_scene_image",
+  "platform": "亚马逊 (Amazon)",
+  "competitor": "Helium 10",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

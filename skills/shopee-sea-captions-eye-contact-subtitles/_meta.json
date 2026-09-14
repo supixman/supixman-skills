@@ -1,0 +1,10 @@
+{
+  "name": "shopee-sea-captions-eye-contact-subtitles",
+  "title": "Shopee东南亚口播视线矫正与高亮字幕 | Captions平替 | 完播率提升利器",
+  "template": "T1_scene_image",
+  "platform": "Shopee/Lazada",
+  "competitor": "Captions",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

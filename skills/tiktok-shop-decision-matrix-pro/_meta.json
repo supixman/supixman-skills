@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-shop-decision-matrix-pro",
+  "title": "TikTok-选品决策专家 | TikTok决策平替 | 多维数据联动输出最可行选品报告与上架建议",
+  "template": "T1_scene_image",
+  "platform": "TikTok / TikTok Shop",
+  "competitor": "TikTok选品决策系统",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

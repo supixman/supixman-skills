@@ -1,0 +1,10 @@
+{
+  "name": "gpt-image-2-crossborder-finetuned",
+  "title": "GPT Image 2 爆款电商主图 | GPT生图平替 | 跨境多平台主图精修",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "GPT Image 2",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

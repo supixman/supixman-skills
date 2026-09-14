@@ -1,0 +1,10 @@
+{
+  "name": "ecom-standard-workflow-app-suite",
+  "title": "AI电商工作流应用 | 工作流应用平替 | 集成覆盖选品/生图/视频/达人的标准化工作流",
+  "template": "T1_scene_image",
+  "platform": "全电商平台通用",
+  "competitor": "电商标准化AI应用库",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

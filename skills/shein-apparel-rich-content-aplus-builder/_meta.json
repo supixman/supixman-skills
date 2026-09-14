@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-rich-content-aplus-builder",
+  "title": "SHEIN希音富媒体A+详情页全案设计 | 品牌大卖标配 | 消除购买犹豫促单",
+  "template": "T1_scene_image",
+  "platform": "SHEIN自营/平台",
+  "competitor": "A+设计工坊",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

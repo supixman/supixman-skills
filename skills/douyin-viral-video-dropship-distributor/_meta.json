@@ -1,0 +1,10 @@
+{
+  "name": "douyin-viral-video-dropship-distributor",
+  "title": "抖音-爆款视频跟卖与铺货专家 | 跟卖铺货平替 | 打通爆款发现-链接采集-极速上架全链路",
+  "template": "T5_sales_video",
+  "platform": "抖音 / 抖店",
+  "competitor": "爆款视频跟卖铺货系统",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}

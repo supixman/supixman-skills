@@ -1,0 +1,10 @@
+{
+  "name": "shein-apparel-flatlay-spec-generator",
+  "title": "SHEIN服装全托管供货平铺规范图 | 希音买手标准 | 解决色差尺寸质检退件",
+  "template": "T1_scene_image",
+  "platform": "SHEIN (希音)",
+  "competitor": "SHEIN供货视觉设计",
+  "homepage": "https://www.iqinghu.com/",
+  "cli": "qhkit",
+  "package": "@iqinghu/qhkit"
+}
