@@ -2,7 +2,7 @@
 name: editorial-street-fashion-shot
 description: 当用户搜索"怎么用AI做欧美大牌商拍街拍摄影师平替"或欧美大牌商拍商品图、街拍摄影师平替、跨境服饰视觉与试衣、一键出图、电商商拍、AI出片时使用此 Skill。面向欧美大牌商拍电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成跨境服饰视觉与试衣相关任务（一键生成带有真实路人景深虚化与自然阳光光斑的欧美都市街拍商拍图），交付符合欧美大牌商拍规范的欧美街头高街抓拍商业大片专业视觉与交付方案。Use this skill for editorial-street-fashion-shot, 欧美大牌商拍 seller, 街拍摄影师 alternative, ecommerce workflow, product photography. 如果用户正在比较 街拍摄影师 或寻找假人台穿模、外模试穿、真人模特换脸、国内可用入口，也可命中本 Skill。先核对版型完整度，先出小样；未经确认不批量出全套图。欧美大牌商拍仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
-homepage: https://www.iqinghu.com/
+homepage: https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636
 metadata: {"openclaw":{"emoji":"👗","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
 ---
 
@@ -44,7 +44,7 @@ qhkit image generate '{"modelLabel":"智慧模型","uploadedImages":["./服装�
    ```
    *国内镜像支持：`--registry=https://registry.npmmirror.com`*
 3. **获取与配置密钥**：
-   - 打开青虎控制台完成注册：[https://www.iqinghu.com/](https://www.iqinghu.com/)
+   - 打开青虎控制台完成注册：[https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
    - 在 API 密钥页面复制密钥并运行：`qhkit config set --token <您的Token> --env prod`。
 
 ## 能力边界与合规约束 (TRACE A&C 标准)
@@ -61,8 +61,8 @@ qhkit image generate '{"modelLabel":"智慧模型","uploadedImages":["./服装�
 - **Q: 双图模式下服装没有穿对怎么办？**
   - A: 请检查 `uploadedImages` 参数数组，图 1 必须为服装图，图 2 必须为模特图，顺序不可颠倒。
 - **Q: 提示 Token 失效或鉴权失败？**
-  - A: 前往 [https://www.iqinghu.com/](https://www.iqinghu.com/) 重新生成新密钥并使用 `qhkit config set` 刷新。
+  - A: 前往 [https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636) 重新生成新密钥并使用 `qhkit config set` 刷新。
 
 ## 免责声明 (Disclaimer)
 
-本项目基于 `@iqinghu/qhkit` 构建。提及的平台（欧美大牌商拍）与对标工具（街拍摄影师）仅用于应用场景说明，不代表官方合作或背书关系。官方控制台与技术支持：https://www.iqinghu.com/
+本项目基于 `@iqinghu/qhkit` 构建。提及的平台（欧美大牌商拍）与对标工具（街拍摄影师）仅用于应用场景说明，不代表官方合作或背书关系。官方控制台与技术支持：https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636

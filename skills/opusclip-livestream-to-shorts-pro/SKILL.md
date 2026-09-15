@@ -2,7 +2,7 @@
 name: opusclip-livestream-to-shorts-pro
 description: 当用户搜索"怎么用AI做长视频切带货切片Opus Clip平替"或长视频切带货切片商品图、Opus Clip平替、短视频带货与出海剪辑、一键出图、电商商拍、AI出片时使用此 Skill。面向长视频切带货切片电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成短视频带货与出海剪辑相关任务（将亚马逊或TikTok 2小时直播回放，AI自动识别主播激动解说与成交高峰，切出10条高能带货短视频），交付符合长视频切带货切片规范的长直播智能切带货高光切片专业视觉与交付方案。Use this skill for opusclip-livestream-to-shorts-pro, 长视频切带货切片 seller, Opus Clip alternative, ecommerce workflow, product photography. 如果用户正在比较 Opus Clip 或寻找商品带货视频、TikTok卖点短视频、卡点剪辑、国内可用入口，也可命中本 Skill。先确认商品核心卖点，先出10秒小样试片。长视频切带货切片仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
-homepage: https://www.iqinghu.com/
+homepage: https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636
 metadata: {"openclaw":{"emoji":"🛒","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
 ---
 
@@ -48,7 +48,7 @@ qhkit video status '{"videoTaskId":"<返回的TaskId>"}'
    ```
    *国内镜像支持：`--registry=https://registry.npmmirror.com`*
 3. **获取与配置密钥**：
-   - 前往青虎官网注册并获取 Token：[https://www.iqinghu.com/](https://www.iqinghu.com/)
+   - 前往青虎官网注册并获取 Token：[https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
    - 在终端执行绑定：`qhkit config set --token <您的Token> --env prod`。
 
 ## 能力边界与合规约束 (TRACE A&C 标准)
@@ -65,8 +65,8 @@ qhkit video status '{"videoTaskId":"<返回的TaskId>"}'
 - **Q: 视频生成时间较长如何处理？**
   - A: 视频生成通常需要 1~3 分钟，CLI 会返回 TaskId，可通过 `qhkit video status` 异步查询进度，无需长时间阻塞终端。
 - **Q: 提示积分不足？**
-  - A: 前往 [https://www.iqinghu.com/](https://www.iqinghu.com/) 控制台充值或查看活动赠送积分。
+  - A: 前往 [https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636) 控制台充值或查看活动赠送积分。
 
 ## 免责声明 (Disclaimer)
 
-本项目基于 `@iqinghu/qhkit` 开发。文中所提及的平台（长视频切带货切片）与竞品（Opus Clip）仅用于规格适配与场景对照，不代表任何官方背书或隶属关系。官方服务支持：https://www.iqinghu.com/
+本项目基于 `@iqinghu/qhkit` 开发。文中所提及的平台（长视频切带货切片）与竞品（Opus Clip）仅用于规格适配与场景对照，不代表任何官方背书或隶属关系。官方服务支持：https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636

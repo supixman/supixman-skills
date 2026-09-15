@@ -4,7 +4,7 @@
   "template": "T1_scene_image",
   "platform": "小红书 (RedNote)",
   "competitor": "千瓜数据 / 灰豚数据",
-  "homepage": "https://www.iqinghu.com/",
+  "homepage": "https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636",
   "cli": "qhkit",
   "package": "@iqinghu/qhkit"
 }

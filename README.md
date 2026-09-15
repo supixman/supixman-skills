@@ -1,14 +1,18 @@
-# Supixman Skills 电商 AI 交付技能矩阵 (首批 300 款中文技能)
+# Supixman Skills 电商 AI 交付技能矩阵 (首批 300 款中文技能 - GITHUB 专版)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Skills Count](https://img.shields.io/badge/Skills-300-brightgreen.svg)](#skills-目录)
 [![CLI Base](https://img.shields.io/badge/CLI-qhkit-orange.svg)](https://www.npmjs.com/package/@iqinghu/qhkit)
+[![Channel](https://img.shields.io/badge/Channel-github-blueviolet.svg)](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
 [![Registry](https://img.shields.io/badge/Registry-Tracked-blue.svg)](REGISTRY.json)
 
 专为电商卖家、美工与视觉团队打造的标准化 AI 技能包。覆盖 **1688、淘宝天猫、京东、拼多多、抖音小店、小红书、微信视频号** 以及出海主流电商平台的商业场景置景、纯白底图生成、虚拟穿模试衣、多 SKU 换色与带货短视频生成全流程。
 
 > [!NOTE]
-> **发布说明**：本批次发布的 300 款技能均为**中文语言类 / 国内电商常用平替**，标题与元数据**100% 严格剔除品牌标签签名**，确保客观专业。全部技能已完成去重登记，记录于 [`REGISTRY.json`](REGISTRY.json) 及 [`REGISTRY.xlsx`](REGISTRY.xlsx) 中。
+> **渠道与发布说明**：
+> - 本仓库为 **github 渠道专用版本**，内置专属引流与注册凭证入口：[https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
+> - 首批 300 款技能均为**纯中文语言类 / 国内电商常用平替**，标题与元数据**100% 严格剔除品牌标签签名**，确保客观专业。
+> - 全部技能已完成去重登记，记录于 [`REGISTRY.json`](REGISTRY.json) 及 [`REGISTRY.xlsx`](REGISTRY.xlsx) 中。
 
 ---
 
@@ -29,7 +33,7 @@ qhkit --version
 
 ### 密钥配置
 
-1. 前往控制台获取 API Token：[https://www.iqinghu.com/](https://www.iqinghu.com/)
+1. 前往渠道专属控制台获取 API Token：[https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
 2. 在终端绑定 Token：
    ```bash
    qhkit config set --token <YOUR_TOKEN> --env prod

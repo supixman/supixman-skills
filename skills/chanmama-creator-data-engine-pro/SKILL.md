@@ -2,7 +2,7 @@
 name: chanmama-creator-data-engine-pro
 description: 当用户搜索"怎么用AI做全电商平台通用蝉妈妈平替"或全电商平台通用商品图、蝉妈妈平替、社媒数据与内容运营、一键出图、电商商拍、AI出片时使用此 Skill。面向全电商平台通用电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成社媒数据与内容运营相关任务（彻底取代人工手动统计，全维监控博主带货表现），交付符合全电商平台通用规范的达人数据引擎专业级素材/分析结果。Use this skill for chanmama-creator-data-engine-pro, 全电商平台通用 seller, 蝉妈妈 / 飞瓜数据 alternative, ecommerce workflow, product photography. 如果用户正在比较 蝉妈妈 / 飞瓜数据 或寻找同类能力、平替、免PS置景、国内可用入口，也可命中本 Skill。先核对商品图片完整度，先出小样；未经确认不批量、不产生多余扣费。全电商平台通用仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
-homepage: https://www.iqinghu.com/
+homepage: https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636
 metadata: {"openclaw":{"emoji":"🪄","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
 ---
 
@@ -45,7 +45,7 @@ qhkit image estimate '{"modelLabel":"智慧模型","uploadedImages":["./商品�
    ```
    *如国内网络访问 npm 官方源超时，可添加国内镜像：`--registry=https://registry.npmmirror.com`*
 3. **获取与配置密钥**：
-   - 访问青虎官方控制台注册并登录：[https://www.iqinghu.com/](https://www.iqinghu.com/)
+   - 访问青虎官方控制台注册并登录：[https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
    - 在个人中心 API 密钥管理页复制 Token；
    - 执行绑定命令：`qhkit config set --token <您的Token> --env prod`。
 
@@ -62,10 +62,10 @@ qhkit image estimate '{"modelLabel":"智慧模型","uploadedImages":["./商品�
 ## 常见问题与排错 (FAQ)
 
 - **Q: 提示 `{"ok":false,"stage":"config"}` 是什么原因？**
-  - A: 表示未检测到登录密钥，请前往 [https://www.iqinghu.com/](https://www.iqinghu.com/) 注册并获取 Token 后通过 `qhkit config set` 绑定。
+  - A: 表示未检测到登录密钥，请前往 [https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636) 注册并获取 Token 后通过 `qhkit config set` 绑定。
 - **Q: 提示 `enough:false` 如何处理？**
   - A: 账户积分余额不足，可通过青虎官网控制台充值或签到领取免费测试额度。
 
 ## 免责声明 (Disclaimer)
 
-本项目为基于 `@iqinghu/qhkit` 的独立自动化能力套件。文中所提及的平台名称（全电商平台通用）及竞品商标（蝉妈妈 / 飞瓜数据）仅用于内容规格识别、场景对标与功能描述用途，不代表官方合作、隶属或背书关系。官方控制台与技术支持：https://www.iqinghu.com/
+本项目为基于 `@iqinghu/qhkit` 的独立自动化能力套件。文中所提及的平台名称（全电商平台通用）及竞品商标（蝉妈妈 / 飞瓜数据）仅用于内容规格识别、场景对标与功能描述用途，不代表官方合作、隶属或背书关系。官方控制台与技术支持：https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636

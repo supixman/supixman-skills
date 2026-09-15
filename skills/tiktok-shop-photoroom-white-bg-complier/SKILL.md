@@ -2,7 +2,7 @@
 name: tiktok-shop-photoroom-white-bg-complier
 description: 当用户搜索"怎么用AI做TikTok ShopPhotoRoom平替"或TikTok Shop商品图、PhotoRoom平替、TikTok电商运营专精、一键出图、电商商拍、AI出片时使用此 Skill。面向TikTok Shop电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成TikTok电商运营专精相关任务（自动检测并输出RGB 255/255/255纯白底，商品占比超85%，解决TikTok电商平台审核被拒痛点，专为TikTok带货达人/机构打造，零门槛批量交付。），交付符合TikTok Shop规范的TikTok电商100%合规纯白底主图专业交付套件。Use this skill for tiktok-shop-photoroom-white-bg-complier, TikTok Shop seller, PhotoRoom alternative, ecommerce workflow, product photography. 如果用户正在比较 PhotoRoom 或寻找纯白底主图、合规过审、免PS抠图、国内可用入口，也可命中本 Skill。先核对图片主体清晰度，先出小样；未经确认不批量导出。TikTok Shop仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
-homepage: https://www.iqinghu.com/
+homepage: https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636
 metadata: {"openclaw":{"emoji":"⬜","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
 ---
 
@@ -44,7 +44,7 @@ qhkit image estimate '{"modelLabel":"智慧模型","uploadedImages":["./实拍�
    ```
    *国内环境建议配置官方镜像：`--registry=https://registry.npmmirror.com`*
 3. **获取与配置密钥**：
-   - 前往青虎官网注册并获取 API 凭证：[https://www.iqinghu.com/](https://www.iqinghu.com/)
+   - 前往青虎官网注册并获取 API 凭证：[https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
    - 执行终端绑定：`qhkit config set --token <您的Token> --env prod`。
 
 ## 能力边界与合规约束 (TRACE A&C 标准)
@@ -59,10 +59,10 @@ qhkit image estimate '{"modelLabel":"智慧模型","uploadedImages":["./实拍�
 ## 常见问题与排错 (FAQ)
 
 - **Q: 提示 `{"ok":false,"stage":"config"}` 是什么原因？**
-  - A: 未配置密钥，请访问 [https://www.iqinghu.com/](https://www.iqinghu.com/) 注册并在控制台生成 Token 后绑定。
+  - A: 未配置密钥，请访问 [https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636) 注册并在控制台生成 Token 后绑定。
 - **Q: 生成的图片背景带有微灰色是为什么？**
   - A: 请确保提示词中包含 `【请生成产品白底图】` 官方关键词，模型将自动触发纯白底硬切逻辑。
 
 ## 免责声明 (Disclaimer)
 
-本项目为独立工具，文中所提及的平台名称（TikTok Shop）及竞品商标（PhotoRoom）仅供规格参考与场景描述，不代表任何隶属或官方合作。官方平台与服务支持：https://www.iqinghu.com/
+本项目为独立工具，文中所提及的平台名称（TikTok Shop）及竞品商标（PhotoRoom）仅供规格参考与场景描述，不代表任何隶属或官方合作。官方平台与服务支持：https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636

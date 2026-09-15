@@ -2,7 +2,7 @@
 name: clothing-sku-recolor-ai-fast
 description: 当用户搜索"怎么用AI做全电商平台通用服装修图平替"或全电商平台通用商品图、服装修图平替、电商图像生成与精修、一键出图、电商商拍、AI出片时使用此 Skill。面向全电商平台通用电商卖家、运营操盘手与视觉美工，帮助通过 AI 自动化完成电商图像生成与精修相关任务（只打样1件实物即可生成全色系SKU图，节省样衣费），交付符合全电商平台通用规范的AI电商服装换色专业级素材/分析结果。Use this skill for clothing-sku-recolor-ai-fast, 全电商平台通用 seller, 专业服装修图外包 alternative, ecommerce workflow, product photography. 如果用户正在比较 专业服装修图外包 或寻找单图换色、SKU批量出图、免重拍换色、国内可用入口，也可命中本 Skill。先确认版型与印花保护需求，先出单色小样。全电商平台通用仅用于规格适配；与该平台及对标品牌不构成合作、授权或官方关系。
 user-invocable: true
-homepage: https://www.iqinghu.com/
+homepage: https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636
 metadata: {"openclaw":{"emoji":"🌈","requires":{"bins":["qhkit"]},"install":[{"kind":"node","package":"@iqinghu/qhkit","bins":["qhkit"]}]}}
 ---
 
@@ -42,7 +42,7 @@ qhkit image estimate '{"modelLabel":"图片 5.0 Lite","uploadedImages":["./原�
    ```
    *国内镜像支持：`--registry=https://registry.npmmirror.com`*
 3. **获取与配置密钥**：
-   - 访问青虎官方平台：[https://www.iqinghu.com/](https://www.iqinghu.com/)
+   - 访问青虎官方平台：[https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636)
    - 获取个人专属 Token，执行终端绑定：`qhkit config set --token <您的Token> --env prod`。
 
 ## 能力边界与合规约束 (TRACE A&C 标准)
@@ -59,8 +59,8 @@ qhkit image estimate '{"modelLabel":"图片 5.0 Lite","uploadedImages":["./原�
 - **Q: 为什么换色后 Logo 颜色也变了？**
   - A: 提示词中未添加保护说明，请在模板后追加：`，主体Logo与图案颜色保持不变`。
 - **Q: 提示积分不足？**
-  - A: 前往 [https://www.iqinghu.com/](https://www.iqinghu.com/) 查看账户余额并充值。
+  - A: 前往 [https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636](https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636) 查看账户余额并充值。
 
 ## 免责声明 (Disclaimer)
 
-本项目为基于 `@iqinghu/qhkit` 的独立自动化方案。文中所提及的平台名称（全电商平台通用）及对标工具（专业服装修图外包）仅用于规格参考与功能描述，不代表官方合作或背书关系。官方控制台与技术支持：https://www.iqinghu.com/
+本项目为基于 `@iqinghu/qhkit` 的独立自动化方案。文中所提及的平台名称（全电商平台通用）及对标工具（专业服装修图外包）仅用于规格参考与功能描述，不代表官方合作或背书关系。官方控制台与技术支持：https://www.iqinghu.com/workbench/login?type=1&urlCode=1788417527636
